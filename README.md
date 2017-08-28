@@ -67,8 +67,8 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Stream Processing**
 | Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf)
 |         | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) (Companion)
-| Oct 11  | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf)
-|         | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) (Companion)
+| Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) 
+|         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
 | Oct 18  | [StreamScope: Continuous Reliable Distributed Processing of Big Data Streams](http://web.eecs.umich.edu/~mosharaf/Readings/StreamScope.pdf)
 |         | **Graph Processing**
 | Oct 23  | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf)
@@ -85,8 +85,8 @@ We will read recent papers from top venues to understand trends in big data syst
 | Nov 20  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf)
 | Nov 22  | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf)
 |         | **RDMA-Enabled Systems**
-| Nov 29  | [No Compromises: Distributed Transactions with Consistency, Availability, and Performance](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-SOSP.pdf)
-|         | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf) (Companion)
+| Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf)
+|         | [No Compromises: Distributed Transactions with Consistency, Availability, and Performance](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-SOSP.pdf) (Companion)
 | Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf)
 | Dec 6   | **Wrap Up** | | |
 | Dec 11  | **Final Presentation** | | |
@@ -111,7 +111,7 @@ We will read recent papers from top venues to understand trends in big data syst
 ### Groups
 All activities of this course will be performed in **groups of 3 students** (2-student groups will be allowed in some cases). 
 
-[Declare your group's membership]() by September 13, 2017. 
+[Declare your group's membership]() by September 11, 2017. 
 After this date, we will form groups from the remaining students.
 
 ### Paper Presentation
