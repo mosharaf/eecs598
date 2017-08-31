@@ -109,9 +109,10 @@ We will read recent papers from top venues to understand trends in big data syst
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
 
 ### Groups
-All activities of this course will be performed in **groups of 3 students** (2-student groups will be allowed in some cases). 
+All activities of this course will be performed in **groups of 3 students** for the Assignment track.
+Exceptions may be made for the Research track. 
 
-[Declare your group's membership]() by September 11, 2017. 
+[Declare your group's membership and paper preferences](https://goo.gl/qzMjq4) by September 11, 2017. 
 After this date, we will form groups from the remaining students.
 
 ### Paper Presentation
