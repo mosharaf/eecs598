@@ -13,7 +13,7 @@
 | Yiwen Zhang (yiwenzhg) | GSI | TBA |
 
 ### Piazza
-**ALL** communication regarding this course must be via [Piazza](piazza.com/umich/fall2017/eecs598001f17/). 
+**ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/fall2017/eecs598001f17/). 
 This includes questions, discussions, announcements, as well as private messages.
 
 Presentation slides and paper summaries should be emailed to [eecs598-bigdata-staff@umich.edu](mailto:eecs598-bigdata-staff@umich.edu).
