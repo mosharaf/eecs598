@@ -92,15 +92,17 @@ We will read recent papers from top venues to understand trends in big data syst
 | Dec 11  | **Final Presentation** | | |
 
 ## Grading
-|                    | Assignment Track | Research Track |
-| -------------------| ----------------:| --------------:|
-| Paper Summary      | 20%              | 20%
-| Paper Presentation | 20%              | 20%
-| Participation      | 10%              | 10%
-| Assignment 1       | 15%              | -
-| Assignment 2       | 15%              | -
-| Assignment 3       | 20%              | -
-| Research Project   | -                | 50%
+|                         | Assignment Track | Research Track |
+| ------------------------| ----------------:| --------------:|
+| Paper Summary           | 20%              | 20%
+| Paper Presentation      | 20%              | 20%
+| Participation           | 10%              | 10%
+| Assignment 1            | 15%              | -
+| Assignment 2            | 15%              | -
+| Assignment 3            | 20%              | -
+| Research Proposal       | -                | 10%
+| Mid-Semester Checkpoint | -                | 15%
+| Final Report            | -                | 25%
 
 
 ## Policies
@@ -168,6 +170,6 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 * Turn in a 2-page draft proposal (including references) by September 27. Remember to include the names and Michigan email addresses of the group members. 
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before October 11.
-* Each group must present mid-semester progress during class hours on the week of November 13.
+* Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of November 13.
 * Each group must present their final results during a presentation or poster session on December 11.
 * **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on December 15.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
