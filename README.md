@@ -10,7 +10,7 @@
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4820 BBB. **By appointments only.**
-| Yiwen Zhang (yiwenzhg) | GSI | TBA |
+| Yiwen Zhang (yiwenzhg) | GSI | BBB Learning Center, F 2:00 PM - 4:00 PM |
 
 ### Piazza
 **ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/fall2017/eecs598001f17/). 
