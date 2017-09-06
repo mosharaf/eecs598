@@ -42,7 +42,7 @@ We will read recent papers from top venues to understand trends in big data syst
 
 | Date    | Readings                       | Presenter| Critic |
 | --------| -------------------------------| ---------| ------ |
-| Sep 6   | Introduction                   | Mosharaf | |
+| Sep 6   | Introduction                   | [Mosharaf](Slides/090617-MChowdhury.pptx) | |
 |         | **Background**
 | Sep 11  | [The Datacenter as a Computer (Chapters 1 and 2)](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) | Mosharaf
 |         | [VL2: A Scalable and Flexible Data Center Network](http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf) (Optional)
