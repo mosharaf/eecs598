@@ -56,16 +56,16 @@ We will read recent papers from top venues to understand trends in big data syst
 | Sep 20  | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf)
 |         | [Altruistic Scheduling in Multi-Resource Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Carbyne.pdf) (Companion)
 |         | **Dataflow Programming Frameworks and Execution Engines**
-| Sep 27  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf)
+| Sep 27  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Dong-Jinxiaoyu-Huanyu | Tianyu-Qiyang-Ruying
 |         | [Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Tez.pdf) (Companion)
 | Sep 29  | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf)
 |         | **Batch Processing**
-| Oct 2   | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Bor-ChungWen-Hongyu
+| Oct 2   | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Bor-ChungWen-Hongyu | Dong-Jinxiaoyu-Huanyu
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Companion)
 | Oct 4   | [Global Analytics in the Face of Bandwidth and Regulatory Constraints](http://web.eecs.umich.edu/~mosharaf/Readings/Geode.pdf)
 |         | [Clarinet: WAN-Aware Optimization for Analytics Queries](http://web.eecs.umich.edu/~mosharaf/Readings/Clarinet.pdf) (Companion)
 |         | **Stream Processing**
-| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | | TaiYing-PieXuan-Changfeng
+| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | ChunJung-TingWei | TaiYing-PieXuan-Changfeng
 |         | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) (Companion)
 | Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) | TaiYing-PieXuan-Changfeng | Wen-Eric-Kevin
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
@@ -74,7 +74,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Oct 23  | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf)
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
 |         | **Machine Learning**
-| Oct 25  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf)
+| Oct 25  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | Tianyu-Qiyang-Ruying
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
 | Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Wen-Eric-Kevin | Boyu-Rui-Haojun
 | Nov 1   | [TuX2: Distributed Graph Computation for Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf)
@@ -87,7 +87,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **RDMA-Enabled Systems**
 | Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf)
 |         | [No Compromises: Distributed Transactions with Consistency, Availability, and Performance](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-SOSP.pdf) (Companion)
-| Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf)
+| Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | | ChunJung-TingWei
 | Dec 6   | **Wrap Up** | | |
 | Dec 11  | **Final Presentation** | | |
 
