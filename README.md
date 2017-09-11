@@ -47,7 +47,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Sep 11  | [The Datacenter as a Computer (Chapters 1 and 2)](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) | Mosharaf
 |         | [VL2: A Scalable and Flexible Data Center Network](http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf) (Optional)
 | Sep 13  | [The Google File System](http://web.eecs.umich.edu/~mosharaf/Readings/GFS.pdf) | Mosharaf
-|         | [MapReduce: Simplified Data Processing on Large Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/MapReduce.pdf) | Mosharaf
+|         | [MapReduce: Simplified Data Processing on Large Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/MapReduce.pdf)
 |         | [GFS: Evolution on Fast-Forward](http://web.eecs.umich.edu/~mosharaf/Readings/GFS-ACMQueue-2012.pdf) (Optional)
 |         | **Resource Management**
 | Sep 18  | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf)
@@ -60,29 +60,29 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Tez.pdf) (Companion)
 | Sep 29  | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf)
 |         | **Batch Processing**
-| Oct 2   | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf)
+| Oct 2   | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Bor-ChungWen-Hongyu
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Companion)
 | Oct 4   | [Global Analytics in the Face of Bandwidth and Regulatory Constraints](http://web.eecs.umich.edu/~mosharaf/Readings/Geode.pdf)
 |         | [Clarinet: WAN-Aware Optimization for Analytics Queries](http://web.eecs.umich.edu/~mosharaf/Readings/Clarinet.pdf) (Companion)
 |         | **Stream Processing**
-| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf)
+| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | | TaiYing-PieXuan-Changfeng
 |         | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) (Companion)
-| Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) 
+| Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) | TaiYing-PieXuan-Changfeng | Wen-Eric-Kevin
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
-| Oct 18  | [StreamScope: Continuous Reliable Distributed Processing of Big Data Streams](http://web.eecs.umich.edu/~mosharaf/Readings/StreamScope.pdf)
+| Oct 18  | [StreamScope: Continuous Reliable Distributed Processing of Big Data Streams](http://web.eecs.umich.edu/~mosharaf/Readings/StreamScope.pdf) | | Bor-ChungWen-Hongyu
 |         | **Graph Processing**
 | Oct 23  | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf)
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
 |         | **Machine Learning**
 | Oct 25  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
-| Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf)
+| Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Wen-Eric-Kevin | Boyu-Rui-Haojun
 | Nov 1   | [TuX2: Distributed Graph Computation for Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf)
 | Nov 10  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf)
 | Nov 13  | **Mid-Semester Presentations** | | |
 | Nov 15  | **Mid-Semester Presentations** | | |
 |         | **Approximate Query Processing**
-| Nov 20  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf)
+| Nov 20  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Boyu-Rui-Haojun
 | Nov 22  | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf)
 |         | **RDMA-Enabled Systems**
 | Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf)
