@@ -53,7 +53,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Sep 18  | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf) | Matthew-Ayush-HyunJong | ChunJung-TingWei-Vandit*
 |         | [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) (Companion)
 |         | [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://web.eecs.umich.edu/~mosharaf/Readings/Mesos.pdf) (Optional)
-| Sep 20  | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | Fan-Hasan-Henry | Andrew-William*
+| Sep 20  | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | Fan-Hasan-Henry | Andrew-William-Zhao*
 |         | [Altruistic Scheduling in Multi-Resource Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Carbyne.pdf) (Companion)
 |         | **Dataflow Programming Frameworks and Execution Engines**
 | Sep 27  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Dong-Jinxiaoyu-Huanyu | Tianyu-Qiyang-Ruying
@@ -77,13 +77,13 @@ We will read recent papers from top venues to understand trends in big data syst
 | Oct 25  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | Tianyu-Qiyang-Ruying | Die-Chi-Shaowen
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
 | Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Wen-Eric-Kevin | Boyu-Rui-Haojun
-| Nov 1   | [TuX2: Distributed Graph Computation for Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf) | Andrew-William | Wenting-Peter
+| Nov 1   | [TuX2: Distributed Graph Computation for Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf) | Andrew-William-Zhao | Wenting-Peter
 | Nov 10  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Matthew-Ayush-HyunJong* | Fan-Hasan-Henry
 | Nov 13  | **Mid-Semester Presentations** | | |
 | Nov 15  | **Mid-Semester Presentations** | | |
 |         | **Approximate Query Processing**
 | Nov 20  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Boyu-Rui-Haojun | Wenting-Peter*
-| Nov 22  | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) | Andrew-William | Bor-ChungWen-Hongyu*
+| Nov 22  | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) | Andrew-William-Zhao | Bor-ChungWen-Hongyu*
 |         | **RDMA-Enabled Systems**
 | Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf) | Tianyu-Qiyang-Ruying* | TaiYing-PeiXuan-Changfeng*
 |         | [No Compromises: Distributed Transactions with Consistency, Availability, and Performance](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-SOSP.pdf) (Companion)
