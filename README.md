@@ -50,7 +50,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [MapReduce: Simplified Data Processing on Large Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/MapReduce.pdf)
 |         | [GFS: Evolution on Fast-Forward](http://web.eecs.umich.edu/~mosharaf/Readings/GFS-ACMQueue-2012.pdf) (Optional)
 |         | **Resource Management**
-| Sep 18  | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf) | Matthew-Ayush-HyunJong | ChunJung-TingWei*
+| Sep 18  | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf) | Matthew-Ayush-HyunJong | ChunJung-TingWei-Vandit*
 |         | [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) (Companion)
 |         | [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://web.eecs.umich.edu/~mosharaf/Readings/Mesos.pdf) (Optional)
 | Sep 20  | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | Fan-Hasan-Henry | Andrew-William-Wenting*
@@ -65,7 +65,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Oct 4   | [Global Analytics in the Face of Bandwidth and Regulatory Constraints](http://web.eecs.umich.edu/~mosharaf/Readings/Geode.pdf) | Fan-Hasan-Henry* | Boyu-Rui-Haojun*
 |         | [Clarinet: WAN-Aware Optimization for Analytics Queries](http://web.eecs.umich.edu/~mosharaf/Readings/Clarinet.pdf) (Companion)
 |         | **Stream Processing**
-| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | ChunJung-TingWei | TaiYing-PeiXuan-Changfeng
+| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | ChunJung-TingWei-Vandit | TaiYing-PeiXuan-Changfeng
 |         | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) (Companion)
 | Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) | TaiYing-PeiXuan-Changfeng | Wen-Eric-Kevin
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
@@ -87,7 +87,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **RDMA-Enabled Systems**
 | Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf) | Tianyu-Qiyang-Ruying* | TaiYing-PeiXuan-Changfeng*
 |         | [No Compromises: Distributed Transactions with Consistency, Availability, and Performance](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-SOSP.pdf) (Companion)
-| Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | Andrew-William-Wenting | ChunJung-TingWei
+| Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | Andrew-William-Wenting | ChunJung-TingWei-Vandit
 | Dec 6   | **Wrap Up** | | |
 | Dec 11  | **Final Presentation** | | |
 
