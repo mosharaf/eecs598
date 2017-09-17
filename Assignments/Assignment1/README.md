@@ -24,7 +24,7 @@ After completing this programming assignment, students should be able to:
 
 ## Environment Setup
 You will complete your assignment in CloudLab. 
-You should complete [Assignment 0](/Assignment0/README.md) to learn how to register a CloudLab account and start a new experiment if you have not done so already. 
+You should complete [Assignment 0](/Assignments/Assignment0/README.md) to learn how to register a CloudLab account and start a new experiment if you have not done so already. 
 In this assignment, we provide you a CloudLab profile called "spark-cluster" under "Michigan-BigData" project for you to start your experiment. 
 The profile is a simple 3-node cluster with Ubuntu 14.04 installed on each machine. 
 You get full control of the machines once the experiment is created, so feel free to download any missing packages you need in the assignment.
@@ -229,6 +229,7 @@ To get a sense of how a Wiki page transfers to a xml file, take a look at the fo
 
 * [Apple (orig)](https://en.wikipedia.org/wiki/Apple)
 * [Apple (xml)](https://en.wikipedia.org/wiki/Special:Export/Apple)
+
 Note that the database we provide you is not up-to-date, but they should be pretty close to what you will find in the above examples.
 
 **Question 1.** What is the default block size on HDFS? What is the default replication factor? 
