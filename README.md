@@ -53,7 +53,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Sep 18  | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf) | [Matthew-Ayush-HyunJong](Slides/091817-YARN.pptx) | [ChunJung-TingWei-Vandit*](Summaries/091817-YARN.pdf)
 |         | [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) (Companion)
 |         | [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://web.eecs.umich.edu/~mosharaf/Readings/Mesos.pdf) (Optional)
-| Sep 20  | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | [Fan-Hasan-Henry](Slides/092017-DRF.pptx) | Andrew-William-Zhao*
+| Sep 20  | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | [Fan-Hasan-Henry](Slides/092017-DRF.pptx) | [Andrew-William-Zhao*](Summaries/092017-DRF.pdf)
 |         | [Altruistic Scheduling in Multi-Resource Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Carbyne.pdf) (Companion)
 |         | **Dataflow Programming Frameworks and Execution Engines**
 | Sep 27  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Dong-Jinxiaoyu-Huanyu | Qiyang-Ruying
