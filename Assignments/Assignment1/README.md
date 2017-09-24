@@ -106,7 +106,7 @@ Add the following contents in the `<property>` field in `hadoop-2.7.4/etc/hadoop
 </property>
 </configuration>
 ```
-Also you need to add the following in `hadoop-2.7.4/etc/hadoop/hdfs-stie.xml`. Make sure you specify the path by yourself.
+Also you need to add the following in `hadoop-2.7.4/etc/hadoop/hdfs-site.xml`. Make sure you specify the path by yourself.
 ```
 <configuration>
 <property>
