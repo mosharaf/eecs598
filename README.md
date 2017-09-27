@@ -56,7 +56,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Sep 20  | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | [Fan-Hasan-Henry](Slides/092017-DRF.pptx) | [Andrew-William-Zhao*](Summaries/092017-DRF.pdf)
 |         | [Altruistic Scheduling in Multi-Resource Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Carbyne.pdf) (Companion)
 |         | **Dataflow Programming Frameworks and Execution Engines**
-| Sep 27  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Dong-Jinxiaoyu-Huanyu | Qiyang-Ruying
+| Sep 27  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | [Dong-Jinxiaoyu-Huanyu](Slides/092717-RDD.pptx) | Qiyang-Ruying
 |         | [Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Tez.pdf) (Companion)
 | Sep 29  | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf) | Die-Chi-Shaowen | Matthew-Ayush-HyunJong
 |         | **Batch Processing**
