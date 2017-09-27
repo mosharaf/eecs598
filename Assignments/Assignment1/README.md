@@ -102,7 +102,7 @@ Add the following contents in the `<property>` field in `hadoop-2.7.4/etc/hadoop
 <configuration>
 <property>
 <name>fs.default.name</name>
-<value>hdfs://IP:8020</value>
+<value>hdfs://namonode_IP:8020</value>
 </property>
 </configuration>
 ```
