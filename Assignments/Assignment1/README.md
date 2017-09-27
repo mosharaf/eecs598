@@ -133,6 +133,8 @@ The datanodes, on the other hand, actually store the data.
 We also need to edit `hadoop-2.7.4/etc/hadoop/slaves` to add the IP address of all the datanodes. 
 In our case, we need to add the IP addresses for all the nodes in the cluster, so every node can store data.
 
+IMPORTANT: You also need to manually specify `JAVA_HOME` in `hadoop-2.7.4/etc/hadoop/hadoop-env.sh`.
+
 Another important step here is to enable the SSH service among the nodes in the cluster. It might seem a little tricky to achieve this in CloudLab. To do this, you have to manually copy the public key of the namenode to the `authorized_keys` file in all the datanodes under `~/.ssh/`. To get the content of the public key, do:
 ```
 cat ~/.ssh/id_rsa.pub
@@ -201,8 +203,6 @@ cp spark-2.2.0-bin-hadoop2.7/conf/spark-defaults.conf.template spark-2.2.0-bin-h
 echo "spark.driver.extraClassPath /path/to/alluxio/client/spark/alluxio-1.5.0-spark-client.jar" >> !$
 echo "spark.executor.extraClassPath /path/to/alluxio/client/spark/alluxio-1.5.0-spark-client.jar" >> !$
 ```
-
-You also need to manually specify `JAVA_HOME` in `hadoop-2.7.4/etc/hadoop/hadoop-env.sh`.
 
 Now you can format and start the Alluxio master node.
 ```
