@@ -58,7 +58,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Dataflow Programming Frameworks and Execution Engines**
 | Sep 27  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | [Dong-Jinxiaoyu-Huanyu](Slides/092717-RDD.pptx) | [Qiyang-Ruying](Summaries/092717-RDD.pdf)
 |         | [Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Tez.pdf) (Companion)
-| Sep 29  | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf) | [Die-Chi-Shaowen](Slides/092917-Naiad.pptx) | Matthew-Ayush-HyunJong
+| Sep 29  | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf) | [Die-Chi-Shaowen](Slides/092917-Naiad.pptx) | [Matthew-Ayush-HyunJong](Summaries/092917-Naiad.pdf)
 |         | **Batch Processing**
 | Oct 2   | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Bor-ChungWen-Hongyu | Dong-Jinxiaoyu-Huanyu
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Companion)
