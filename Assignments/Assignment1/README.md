@@ -271,7 +271,7 @@ Set the Spark driver memory to 5GB and the Spark executor memory to 5GB to answe
 
 **Question 5.** Use `enwiki-20110115-pages-articles_whole.xml` as input and run the program under HDFS inside the Spark cluster you deploy. Record the completion time. Now, kill the Spark process in one of the worker nodes (use command "jps" to find out the worker process ID) . Rerun the job and record the completion time. Does the job still finish? Do you observe any difference in the completion time? Briefly explain your observations.
 
-**Question 6.** Only for this question, change the replication factor of `enwiki-20110115-pages-articles_whole.xml` to 2 and repeat Question 6 without killing one of the worker nodes. Do you observe any difference in the completion time? Briefly explain.
+**Question 6.** Only for this question, change the replication factor of `enwiki-20110115-pages-articles_whole.xml` to 2 and repeat Question 5 without killing one of the worker nodes. Do you observe any difference in the completion time? Briefly explain.
 
 ### Task 3: Spark PageRank
 In this task, you are going to implement the PageRank algorithm, which Google uses to rank the website in the Google Search. We will use it to calculate the rank of the articles in Wikipedia. The algorithm can be summarized as follows:
@@ -290,7 +290,7 @@ Set the Spark driver memory to 5GB and the Spark executor memory to 5GB whenever
 
 **Question 8.** Repeat using Alluxio (i.e., write the output of Task 1 to Alluxio and use that as input). How does the performance change? Briefly explain.
 
-**Question 9.** Re-ingest `enwiki-20110115-pages-articles_whole.xml` with block size 64MB. Repeat Question 6. Report how much performance in terms of completion time changes. Briefly explain.
+**Question 9.** Re-ingest `enwiki-20110115-pages-articles_whole.xml` with block size 64MB. Repeat Question 5 without killing one of the worker nodes. Report how much performance in terms of completion time changes. Briefly explain.
 
 ## Part 2: Spark Streaming
 
