@@ -62,7 +62,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Batch Processing**
 | Oct 2   | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | [Bor-ChungWen-Hongyu](Slides/100217-SparkSQL-Hive.pptx) | [Dong-Jinxiaoyu-Huanyu](Summaries/100217-SparkSQL-Hive.pdf)
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Companion)
-| Oct 4   | [Global Analytics in the Face of Bandwidth and Regulatory Constraints](http://web.eecs.umich.edu/~mosharaf/Readings/Geode.pdf) | [Fan-Hasan-Henry*](Slides/100417-Geode.pptx) | Boyu-Rui-Haojun*
+| Oct 4   | [Global Analytics in the Face of Bandwidth and Regulatory Constraints](http://web.eecs.umich.edu/~mosharaf/Readings/Geode.pdf) | [Fan-Hasan-Henry*](Slides/100417-Geode.pptx) | [Boyu-Rui-Haojun*](Summaries/100417-Geode.pdf)
 |         | [Clarinet: WAN-Aware Optimization for Analytics Queries](http://web.eecs.umich.edu/~mosharaf/Readings/Clarinet.pdf) (Companion)
 |         | **Stream Processing**
 | Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | ChunJung-TingWei-Vandit | TaiYing-PeiXuan-Changfeng
