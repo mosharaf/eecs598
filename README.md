@@ -65,7 +65,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Oct 4   | [Global Analytics in the Face of Bandwidth and Regulatory Constraints](http://web.eecs.umich.edu/~mosharaf/Readings/Geode.pdf) | [Fan-Hasan-Henry*](Slides/100417-Geode.pptx) | [Boyu-Rui-Haojun*](Summaries/100417-Geode.pdf)
 |         | [Clarinet: WAN-Aware Optimization for Analytics Queries](http://web.eecs.umich.edu/~mosharaf/Readings/Clarinet.pdf) (Companion)
 |         | **Stream Processing**
-| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | [ChunJung-TingWei-Vandit](Slides/100917-SparkStreaming.pptx) | TaiYing-PeiXuan-Changfeng
+| Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | [ChunJung-TingWei-Vandit](Slides/100917-SparkStreaming.pptx) | [TaiYing-PeiXuan-Changfeng](Summaries/100917-D-Streams.pdf)
 |         | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) (Companion)
 | Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) | TaiYing-PeiXuan-Changfeng | Wen-Eric-Kevin
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
