@@ -67,7 +67,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Stream Processing**
 | Oct 9   | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | [ChunJung-TingWei-Vandit](Slides/100917-SparkStreaming.pptx) | [TaiYing-PeiXuan-Changfeng](Summaries/100917-D-Streams.pdf)
 |         | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) (Companion)
-| Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) | [TaiYing-PeiXuan-Changfeng](Slides/101117-Facebook-Streaming.pptx) | Wen-Eric-Kevin
+| Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) | [TaiYing-PeiXuan-Changfeng](Slides/101117-Facebook-Streaming.pptx) | [Wen-Eric-Kevin](Summaries/101117-Facebook-Streaming.pdf)
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
 | Oct 18  | [StreamScope: Continuous Reliable Distributed Processing of Big Data Streams](http://web.eecs.umich.edu/~mosharaf/Readings/StreamScope.pdf) | Die-Chi-Shaowen* | Bor-ChungWen-Hongyu
 |         | **Graph Processing**
