@@ -108,11 +108,9 @@ Note, you always use 1 parameter server node and multiple worker nodes.
 You need to create replica for both `images` and `labels`. 
 Take a look at how [tf.split](https://www.tensorflow.org/api_docs/python/tf/split) works.
 4. For each worker device, create replica by 
-1. building up network layers by calling `alexnet_inference/vgg_inference` using the sub tensors you created in Step 3, and
-2. computing gradients,
-
-and collect the gradients and reuse the variable for the next replica. 
-For more information on how to reuse variables in TensorFlow, read how TensorFlow [Variables] work, 
+	1. building up network layers by calling `alexnet_inference/vgg_inference` using the sub tensors you created in Step 3, and
+	2. computing gradients,and collect the gradients and reuse the variable for the next replica. 
+For more information on how to reuse variables in TensorFlow, read how TensorFlow [Variables](https://www.tensorflow.org/api_docs/python/tf/Variable) work, 
 and considering using [tf.variable_scope](https://www.tensorflow.org/api_docs/python/tf/variable_scope).
 5. On the parameter server node, calculate the average accross the gradients you collect. 
 You should call `average_gradents` method definded in the `ModuleBuilder` class for this step.
