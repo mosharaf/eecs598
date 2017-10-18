@@ -69,7 +69,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) (Companion)
 | Oct 11  | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) | [TaiYing-PeiXuan-Changfeng](Slides/101117-Facebook-Streaming.pptx) | [Wen-Eric-Kevin](Summaries/101117-Facebook-Streaming.pdf)
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
-| Oct 18  | [StreamScope: Continuous Reliable Distributed Processing of Big Data Streams](http://web.eecs.umich.edu/~mosharaf/Readings/StreamScope.pdf) | Die-Chi-Shaowen* | Bor-ChungWen-Hongyu
+| Oct 18  | [StreamScope: Continuous Reliable Distributed Processing of Big Data Streams](http://web.eecs.umich.edu/~mosharaf/Readings/StreamScope.pdf) | [Die-Chi-Shaowen*](Slides/101817-StreamScope.pptx) | Bor-ChungWen-Hongyu
 |         | **Graph Processing**
 | Oct 23  | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf) | Wen-Eric-Kevin* | Dong-Jinxiaoyu-Huanyu*
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
