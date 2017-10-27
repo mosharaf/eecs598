@@ -74,7 +74,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Oct 23  | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf) | [Wen-Eric-Kevin*](Slides/102317-PowerGraph.pdf) | [Dong-Jinxiaoyu-Huanyu*](Summaries/102318-PowerGraph.pdf)
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
 |         | **Machine Learning**
-| Oct 25  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | [Qiyang-Ruying](Slides/102517-ParameterServer.pptx) | Die-Chi-Shaowen
+| Oct 25  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | [Qiyang-Ruying](Slides/102517-ParameterServer.pptx) | [Die-Chi-Shaowen](Summaries/102517-ParameterServer.pdf)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
 | Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Wen-Eric-Kevin | Boyu-Rui-Haojun
 | Nov 1   | [TuX2: Distributed Graph Computation for Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf) | Andrew-William-Zhao | Wenting-Peter
