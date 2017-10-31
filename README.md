@@ -76,7 +76,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Machine Learning**
 | Oct 25  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | [Qiyang-Ruying](Slides/102517-ParameterServer.pptx) | [Die-Chi-Shaowen](Summaries/102517-ParameterServer.pdf)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
-| Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Wen-Eric-Kevin | Boyu-Rui-Haojun
+| Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | [Wen-Eric-Kevin](Slides/103017-TensorFlow.pdf) | [Boyu-Rui-Haojun](Summaries/103017-TensorFlow.pdf)
 | Nov 1   | [TuX2: Distributed Graph Computation for Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf) | Andrew-William-Zhao | Wenting-Peter
 | Nov 10  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Matthew-Ayush-HyunJong* | Fan-Hasan-Henry
 | Nov 13  | **Mid-Semester Presentations** | | |
