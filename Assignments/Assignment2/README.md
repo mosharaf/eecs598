@@ -115,6 +115,7 @@ and considering using [tf.variable_scope](https://www.tensorflow.org/api_docs/py
 5. On the parameter server node, calculate the average accross the gradients you collect. 
 You should call `average_gradents` method definded in the `ModuleBuilder` class for this step.
 This method will transfer gradients from the worker nodes to the parameter server.
+Then apply the gradients with `apply_gradients' on the parameter server the same way single-machine would do it.
 6. Finally, return the same parameters as the single-machine version code does.
 
 Answer the following questions after you finish implementing the distributed version of AlexNet and VggNet.
