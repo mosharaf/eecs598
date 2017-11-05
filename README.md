@@ -81,7 +81,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Nov 10  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Matthew-Ayush-HyunJong* | Fan-Hasan-Henry
 | Nov 13  | **Mid-Semester Presentations** | | |
 |         | **Approximate Query Processing**
-| Nov 15  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Boyu-Rui-Haojun | Wenting-Peter*
+| Nov 17  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Boyu-Rui-Haojun | Wenting-Peter*
 | Nov 22  | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) | Andrew-William-Zhao | Bor-ChungWen-Hongyu*
 |         | **RDMA-Enabled Systems**
 | Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf) | Qiyang-Ruying* | TaiYing-PeiXuan-Changfeng*
