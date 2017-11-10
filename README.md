@@ -78,7 +78,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
 | Oct 30  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | [Wen-Eric-Kevin](Slides/103017-TensorFlow.pdf) | [Boyu-Rui-Haojun](Summaries/103017-TensorFlow.pdf)
 | Nov 1   | [TuX2: Distributed Graph Computation for Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf) | [Andrew-William-Zhao](Slides/110117-Tux2.pptx) | [Wenting-Peter](Summaries/110117-TuX2.pdf)
-| Nov 10  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Matthew-Ayush-HyunJong* | Fan-Hasan-Henry
+| Nov 10  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | [Matthew-Ayush-HyunJong*](Slides/111017-Gaia.pdf) | Fan-Hasan-Henry
 | Nov 13  | **Mid-Semester Presentations** | | |
 |         | **Approximate Query Processing**
 | Nov 17  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Boyu-Rui-Haojun | Wenting-Peter*
