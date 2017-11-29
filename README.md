@@ -84,7 +84,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Nov 17  | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | [Boyu-Rui-Haojun](Slides/111717-BlinkDB.pptx) | [Wenting-Peter*](Summaries/111717-BlinkDB.pdf)
 | Nov 22  | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) | [Andrew-William-Zhao](Slides/112217-Quickr.pdf) | [Bor-ChungWen-Hongyu*](Summaries/112217-Quickr.pdf)
 |         | **RDMA-Enabled Systems**
-| Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf) | Qiyang-Ruying* | TaiYing-PeiXuan-Changfeng*
+| Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf) | [Qiyang-Ruying*](Slides/112917-FaRM.pptx) | TaiYing-PeiXuan-Changfeng*
 |         | [No Compromises: Distributed Transactions with Consistency, Availability, and Performance](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-SOSP.pdf) (Companion)
 | Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | Wenting-Peter | ChunJung-TingWei-Vandit
 | Dec 6   | **Wrap Up** | | |
