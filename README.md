@@ -86,7 +86,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **RDMA-Enabled Systems**
 | Nov 29  | [FaRM: Fast Remote Memory](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-NSDI.pdf) | [Qiyang-Ruying*](Slides/112917-FaRM.pptx) [Yiwen**](Slides/112917-Intro_to_RDMA.pptx) | [TaiYing-PeiXuan-Changfeng*](Summaries/112917_FaRM.pdf)
 |         | [No Compromises: Distributed Transactions with Consistency, Availability, and Performance](http://web.eecs.umich.edu/~mosharaf/Readings/FaRM-SOSP.pdf) (Companion)
-| Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | [Wenting-Peter](Slides/120417-Infiniswap.pdf) | ChunJung-TingWei-Vandit
+| Dec 4   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | [Wenting-Peter](Slides/120417-Infiniswap.pdf) | [ChunJung-TingWei-Vandit](Summaries/120417-Infiniswap.pdf)
 | Dec 6   | **Wrap Up** | | |
 | Dec 11  | **Final Presentation** | | |
 
