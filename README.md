@@ -13,7 +13,7 @@
 | Peifeng Yu (peifeng) | GSI | BBB Learning Center, TBA |
 
 ### Piazza
-**ALL** communication regarding this course must be via [Piazza](piazza.com/umich/winter2019/eecs598009w19/). 
+**ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/winter2019/eecs598009w19/). 
 This includes questions, discussions, announcements, as well as private messages.
 
 Presentation slides and paper summaries should be emailed to [eecs598-bigdata-staff@umich.edu](mailto:eecs598-bigdata-staff@umich.edu).
