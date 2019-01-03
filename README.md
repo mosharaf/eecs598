@@ -2,8 +2,8 @@
 
 ## Administrivia
 * Catalog Number: 33058
-* Lectures/Discussion: 1690 BEYSTER, MW: 12:00 PM – 1:30 PM
-* Projects/Makeup: 1940 COOL, F 12:00 PM – 1:00 PM
+* Lectures/Discussion: 3150 DOW, MW: 12:00 PM – 1:30 PM
+* Projects/Makeup: 1200 EECS, F 12:00 PM – 1:00 PM
 
 ### Team
 
