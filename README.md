@@ -120,7 +120,7 @@ We will read recent papers from top venues to understand trends in big data syst
 ### Groups
 All activities of this course will be performed in **groups of 3 students** for the Assignment track.
 
-[Declare your group's membership as well as preferences for track and papers](TBA) by January 14, 2019. 
+[Declare your group's membership as well as preferences for track and papers](https://goo.gl/forms/ajVrsWsd7r81daTx2) by January 14, 2019. 
 After this date, we will form groups from the remaining students.
 
 Note that there will be *an equal number of groups in each of the two tracks*.
