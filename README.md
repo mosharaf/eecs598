@@ -162,7 +162,7 @@ Meaning, failing to turn in 8 or more reviews on time will result in a zero for 
 The grade for this part will be assigned as follows: at the end of the term, 2 of your reviews will be randomly selected and graded.
 The higher grade of the two will be used for grading. 
 
-Submit reviews via [HotCRP](TBA).
+Submit reviews via [HotCRP](https://bigdata1.eecs.umich.edu/).
 
 ### Participation
 You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
