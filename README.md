@@ -10,7 +10,7 @@
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4820 BBB. **By appointments only.**
-| Peifeng Yu (peifeng) | GSI | BBB Learning Center, TBA |
+| Peifeng Yu (peifeng) | GSI | BBB Learning Center, F 1:00 PM - 3:00 PM |
 
 ### Piazza
 **ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/winter2019/eecs598009w19/). 
