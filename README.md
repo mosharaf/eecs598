@@ -54,7 +54,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Jan 23  | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
 |         | [EC-Cache: Load-balanced, Low-latency Cluster Caching with Online Erasure Coding](http://web.eecs.umich.edu/~mosharaf/Readings/EC-Cache.pdf) (Companion)
 |         | [f4: Facebook’s Warm BLOB Storage System](http://web.eecs.umich.edu/~mosharaf/Readings/f4.pdf) (Optional)
-| Jan 28  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | 
+| Jan 25  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | 
 |         | [CIEL: A Universal Execution Engine for Distributed Data-Flow Computing](http://web.eecs.umich.edu/~mosharaf/Readings/CIEL.pdf) (Companion) | 
 |         | [DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language](http://web.eecs.umich.edu/~mosharaf/Readings/DryadLINQ.pdf) (Optional) | 
 |         | **Resource Management and Scheduling**
