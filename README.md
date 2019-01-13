@@ -45,7 +45,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | --------| -------------------------------| ---------
 | Jan 9   | Introduction                   | [Mosharaf](Slides/010919-MChowdhury.pptx) 
 |         | **Background**
-| Jan 14  | [The Datacenter as a Computer (Chapters 1 and 2)](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) | Mosharaf
+| Jan 14  | [The Datacenter as a Computer (Chapters 1 and 2)](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) | [Mosharaf](Slides/011419-MC-DCComputer-DCN.pptx)
 |         | [VL2: A Scalable and Flexible Data Center Network](http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf) (Optional)
 | Jan 16  | [The Google File System](http://web.eecs.umich.edu/~mosharaf/Readings/GFS.pdf) | Mosharaf
 |         | [MapReduce: Simplified Data Processing on Large Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/MapReduce.pdf)
