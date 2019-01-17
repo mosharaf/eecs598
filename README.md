@@ -51,63 +51,63 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [MapReduce: Simplified Data Processing on Large Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/MapReduce.pdf)
 |         | [GFS: Evolution on Fast-Forward](http://web.eecs.umich.edu/~mosharaf/Readings/GFS-ACMQueue-2012.pdf) (Optional)
 |         | **Storage and Computation**
-| Jan 23  | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
+| Jan 23  | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf) | Mosharaf
 |         | [EC-Cache: Load-balanced, Low-latency Cluster Caching with Online Erasure Coding](http://web.eecs.umich.edu/~mosharaf/Readings/EC-Cache.pdf) (Companion)
 |         | [f4: Facebook’s Warm BLOB Storage System](http://web.eecs.umich.edu/~mosharaf/Readings/f4.pdf) (Optional)
-| Jan 25  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | 
+| Jan 25  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Ying-Mengqiu-Shenghao
 |         | [CIEL: A Universal Execution Engine for Distributed Data-Flow Computing](http://web.eecs.umich.edu/~mosharaf/Readings/CIEL.pdf) (Companion) | 
 |         | [DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language](http://web.eecs.umich.edu/~mosharaf/Readings/DryadLINQ.pdf) (Optional) | 
 |         | **Resource Management and Scheduling**
-| Jan 30  | [Borg: Large-Scale Cluster Management at Google with Borg](http://web.eecs.umich.edu/~mosharaf/Readings/Borg.pdf) | 
+| Jan 30  | [Borg: Large-Scale Cluster Management at Google with Borg](http://web.eecs.umich.edu/~mosharaf/Readings/Borg.pdf) | Eric
 |         | [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) (Companion)
 |         | [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://web.eecs.umich.edu/~mosharaf/Readings/Mesos.pdf) (Optional)
 |         | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf) (Optional) | 
-| Feb 4   | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | 
+| Feb 4   | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | Fan-Keyu-Che
 |         | [Altruistic Scheduling in Multi-Resource Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Carbyne.pdf) (Companion)
 |         | [Tetris:Multi-Resource Packing for Cluster Schedulers](http://web.eecs.umich.edu/~mosharaf/Readings/Tetris.pdf) (Optional)
 |         | **Systems for AI**
-| Feb 6   | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | 
+| Feb 6   | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Peifeng
 |         | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) (Companion) |
-| Feb 11  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | 
+| Feb 11  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | Yifu-Bochan-Junding
 |         | [STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/STRADS.pdf) (Companion)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
-| Feb 13  | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf) | 
+| Feb 13  | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf) | Yifu-Bochan-Junding
 |         | [DeepCPU: Serving RNN-based Deep Learning Models 10x Faster](http://web.eecs.umich.edu/~mosharaf/Readings/DeepCPU.pdf) (Companion)
 |         | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) (Optional)
-| Feb 18  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | 
+| Feb 18  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | Zerihun-Yutian-ChihYu
 |         | [Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf) (Companion)
-| Feb 20  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | 
+| Feb 20  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Juncheng
 |         | [Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Optimus.pdf) (Companion)
 |         | [Gandiva: Introspective Cluster Scheduling for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Gandiva.pdf) (Optional)
 |         | **Video Analytics**
-| Feb 25  | [Chameleon: Scalable Adaptation of Video Analytics](http://web.eecs.umich.edu/~mosharaf/Readings/Chameleon.pdf) | 
+| Feb 25  | [Chameleon: Scalable Adaptation of Video Analytics](http://web.eecs.umich.edu/~mosharaf/Readings/Chameleon.pdf) | Romil-Frederick-Anant
 |         | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) (Companion)
 |         | [NoScope: Optimizing Neural Network Queries over Video at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/NoScope.pdf) (Optional)
 |         | **SQL**
-| Mar 11  | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | 
+| Mar 11  | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Romil-Frederick-Anant
 |         | [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://web.eecs.umich.edu/~mosharaf/Readings/Impala.pdf) (Companion)
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Optional)
 |         | **Stream Processing**
-| Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | 
+| Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | Fan-Keyu-Che
 |         | [Drizzle: Fast and Adaptable Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Drizzle.pdf) (Companion)
-| Mar 20  | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) | 
+| Mar 20  | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) | Zhuo-Wenche
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
 |         | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) (Optional) | 
-| Mar 25  | [Apache Flink™: Stream and Batch Processing in a Single Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Flink.pdf) | 
+| Mar 25  | [Apache Flink™: Stream and Batch Processing in a Single Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Flink.pdf) | Fan-Keyu-Che
 |         | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf) (Companion)
 | Mar 27  | **Mid-Semester Presentations**
 |         | **Graph Processing**
-| Apr 1   | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf) | 
+| Apr 1   | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf) | Ying-Mengqiu-Shenghao
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
 |         | **Approximate Big Data**
-| Apr 3   | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | 
+| Apr 3   | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Zerihun-Yutian-ChihYu
 |         | [BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkML.pdf) (Companion)
 |         | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) (Optional)
 |         | **New Hardware Trends**
-| Apr 8   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | 
+| Apr 8   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | Eric
 |         | [Accelerating Relational Databases by Leveraging Remote Memory and RDMA](http://web.eecs.umich.edu/~mosharaf/Readings/RDMA-DB.pdf) (Companion)
 |         | [Remote Memory in the Age of Fast Networks](http://web.eecs.umich.edu/~mosharaf/Readings/RemMem-FastNet.pdf) (Optional)
-| Apr 10  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | 
+| Apr 10  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | Mosharaf
 |         | [Direct Universal Access: Making Data Center Resources Available to FPGA](http://web.eecs.umich.edu/~mosharaf/Readings/DUA.pdf) (Companion)
 | Apr 15  | **Wrap Up** | Mosharaf
 | Apr 22  | **Final Presentations** |
