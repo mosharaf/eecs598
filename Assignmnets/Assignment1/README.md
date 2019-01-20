@@ -49,6 +49,12 @@ export PATH=\${JAVA_HOME}/bin:\$PATH" >> ~/.bashrc
 source !$
 ```
 
+### Setup Programming Language
+
+You choose either Java or Scala to finish this assignment. You will need to install the corresponding build tool.
+
+#### Scala
+
 Another thing you may soon find useful is the Simple Build Tool (sbt), run the following command to install it:
 
 ```bash
@@ -58,12 +64,30 @@ sudo apt-get update
 sudo apt-get install sbt
 ```
 
+#### Java
+
+You can use Maven to to build your java application as an uber jar. We provide an example project located at `/bigdata/examples/a1-java` which you can use as an start point.
+
+To install maven, run the following command:
+
+```bash
+tar xvf /bigdata/software/apache-maven-3.6.0-bin.tar.gz -C $HOME
+echo "export PATH=$HOME/apache-maven-3.6.0/bin:\$PATH" >> $HOME/.bashrc
+source !$
+```
+
 ### Configure SSH
 
 Another important step here is to enable the SSH service among the nodes in the cluster.
 To do this, you need to generate a public/private key pair on each node, and copy the public key to `~/.ssh/authorized_keys` on every nodes (includeing itself). Remember to start a new line in that file.
 
-To generate the key pair, run `ssh-keygen` in the terminal on the node, and
+To generate the key pair, run
+
+```bash
+ssh-keygen
+```
+
+in the terminal on the node, and
 accept default settings.
 
 Now to copy the public key to the other nodes, first do:
@@ -144,11 +168,10 @@ Pick your favorite node among the three to be the master node and launch your ap
 
 #### Install spark on each node
 
-To install spark, download and decompress the spark binary on each node in the cluster:
+To install spark, decompress the spark binary on each node in the cluster:
 
 ```bash
-curl -JOL 'https://www-us.apache.org/dist/spark/spark-2.2.3/spark-2.2.3-bin-hadoop2.7.tgz'
-tar xvf spark-2.2.3-bin-hadoop2.7.tgz
+tar xvf /bigdata/software/spark-2.2.3-bin-hadoop2.7.tgz -C $HOME
 ```
 
 Instructions on building a spark cluster can be found in Spark's [official document](http://spark.apache.org/docs/2.2.3/spark-standalone.html).
@@ -193,8 +216,7 @@ Since we use Spark's standalone manager in this assignment, we will only deploy 
 First, let us get the latest stable version of Hadoop on every machine in the cluster.
 
 ```bash
-curl -JOL 'https://www-us.apache.org/dist/hadoop/common/hadoop-2.7.7/hadoop-2.7.7.tar.gz'
-tar xvf hadoop-2.7.7.tar.gz
+tar xvf /bigdata/software/hadoop-2.7.7.tar.gz -C $HOME
 echo "export PATH=$(pwd)/hadoop-2.7.7/bin:\$PATH" >> ~/.bashrc
 source !$
 ```
@@ -256,12 +278,26 @@ On other two machines, only the datanode directory is needed to be created.
 
 We also need to edit `hadoop-2.7.7/etc/hadoop/slaves` to add the address of all the datanodes. Since `localhost` already exists, we need to add the addresses for the other two nodes in the cluster, so every node can store data. **This only need to be done on the name node.**
 
+##### `hadoop-2.7.7/etc/hadoop/hadoop-env.sh`
+
+Lastly, even though we have set `JAVA_HOME` in our environment, to make sure the start-dfs script picking up the value, we set it again in `hadoop-env.sh`. Fine the line of
+
+```plain
+export JAVA_HOME=${JAVA_HOME}
+```
+
+and change it to
+
+```plain
+export JAVA_HOME=/bigdata/jdk1.8.0_201
+```
+
 #### Initialize and start
 
 Now, we proceed to format the name node and start the daemon on the name node of your choice.
 
 ```bash
-hadoop-2.7.7/bin/hdfs namenode -format
+hdfs namenode -format
 hadoop-2.7.7/sbin/start-dfs.sh
 ```
 
@@ -278,7 +314,7 @@ make sure there are 3 datanodes.
 Now, the HDFS is setup. Type the following to see the available commands in HDFS.
 
 ```bash
-hadoop-2.7.7/bin/hdfs dfs -help
+hdfs dfs -help
 ```
 
 ### [Alluxio](https://www.alluxio.com/)
@@ -290,8 +326,7 @@ In this assignment, we will see how much performance improvement Alluxio can bri
 To deploy Alluxio, use the binary file located under `/bigdata` and decompress it:
 
 ```bash
-cp /bigdata/assignments/assignment1/alluxio-1.5.0-hadoop-2.7-bin.tar.gz ~
-cd ~ && tar xvf alluxio-1.5.0-hadoop-2.7-bin.tar.gz
+tar xvf /bigdata/software/alluxio-1.5.0-hadoop-2.7-bin.tar.gz -C $HOME
 ```
 
 To make sure Spark be aware of your Alluxio setup, add the following two lines to your `spark-default.conf` under you Spark/conf directory (this need to be done on all three nodes). Make sure you specify the correct path:
