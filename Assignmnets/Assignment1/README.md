@@ -401,7 +401,9 @@ The xml file is structured as follow:
     </siteinfo>
     <page>
         <title>Title A</title>
-        <text>Some text</text>
+        <revision>
+            <text>Some text</text>
+        </revision>
     </page>
     <page>
         ...
@@ -432,7 +434,7 @@ article2	article0
 ...
 ```
 
-It is hard and tedious to find every internal link on a page. We have made the following asumptions to simplify the string parsing for you. For each page, the article on the left column corresponds to the string between `<title>` and `</title>`, while the article on the right column are those surrounded by a pair of double brackets `[[ ]]` in the `<text>` field in the xml file with the following requirements:
+It is hard and tedious to find every internal link on a page. We have made the following asumptions to simplify the string parsing for you. For each page element, the article on the left column corresponds to the string between `<title>` and `</title>`, while the article on the right column are those surrounded by a pair of double brackets `[[ ]]` in the `<text>` field in the xml file with the following requirements:
 
 1. All the letters should be convert to lower case.
 2. If the internal link contains a `:`, you should ignore the entire link unless it starts with `Category:`.
@@ -447,7 +449,9 @@ To get started, you can use the [spark-xml package](https://github.com/databrick
 
 Note: if you use the Java API, the format should be `com.databricks.xml` rather than `xml` in the spark-xml example on their home page.
 
-You will need to figure out how to compile your program and submit as a Spark application and answer the following questions. **You should use the default configuration of Spark, HDFS, and Alluxio unless we specify a different one.** To be clear, you should use the default deploy mode, which is "client". For more information on the two deploy modes Spark supports and when to use them, read the [official document](https://spark.apache.org/docs/latest/submitting-applications.html). You can add dependencies package in your Spark configuration files according to your need although they can also be specified in the command line.
+You will need to figure out how to compile your program and submit as a Spark application and answer the following questions.
+
+**You should use the default configuration of Spark, HDFS, and Alluxio unless we specify a different one.** To be clear, you should use the default deploy mode, which is "client". For more information on the two deploy modes Spark supports and when to use them, read the [official document](https://spark.apache.org/docs/latest/submitting-applications.html).
 
 Set the Spark driver memory to 1GB and the Spark executor memory to 5GB to answer Question 2-4.
 
@@ -524,10 +528,39 @@ In this task, you are going to write a stream emitter using **Spark Streaming** 
 
 ## Submission Instructions
 
-You are going to email a tar.gz file to `eecs598-bigdata-staff@umich.edu.`, which contains the Spark program codes and jar files(or Python files) in the Part 1 Task 2-3 and Part 2 Task 1-2 as well as the Spark configuration files you need to run the three tasks mentioned below. Give each of the 4 codes a meaningful name, such as "Part1Task2" or "CreateGraph".
-Name the tar file to be `<uniqueName1>_<uniqueName2>_<uniqueName3>_assignment1.tar.gz`. For example, `mosharaf_peifeng_assignment1.tar.gz`
-Every group is going to include a README to record the answers to the 12 questions mentioned in this assignment.
-In the README file, you will also provide the instructions (such as commands or scripts) to run the **following 3 tasks on Spark master node locally using 4 cores:**
+### File name
+
+Each group should submit one tar.gz file to `eecs598-bigdata-staff@umich.edu`.
+
+Name the file as `<group_num>_assignment1.tar.gz`.
+For example, `g1_mosharaf_peifeng_assignment1.tar.gz`. You can find your group name/number at this [link](https://www.cloudlab.us/show-project.php?project=Michigan-BigData#groups).
+
+### Content - Code
+
+4 Spark projects from Part 1 Task 2-3 and Part 2 Task 1-2 should goes under folder names
+`p1t2`, `p1t3`, `p2t1`, `p2t2` accordingly.
+
+Inside each folder, in addition to source code and build system, there should be an additional folder named `config` which contains Spark configuration files you need to run the three tasks mentioned below.
+
+The structure should be something like (using Java as example)
+
+```plain
+g1.tar.gz
+├── p1t2
+│   ├── config
+│   ├── pom.xml
+│   └── src
+├── p1t3
+├── p2t1
+├── p2t2
+└── README (see below)
+```
+
+### Content - README
+
+Each submission should also include a README to record the answers to the 12 questions mentioned in this assignment.
+
+You also need to provide instructions (such as commands or scripts) to run the **following 3 tasks on Spark master node locally using 4 cores:**
 
 1. Use the program in Part 1 Task 2 to take "enwiki-20110115-pages-articles1.xml" as input to generate the graph.
 2. Use the program in Part 1 Task 3 to take the graph you just generated and output a rank list of the articles in the dataset.
