@@ -51,7 +51,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [MapReduce: Simplified Data Processing on Large Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/MapReduce.pdf)
 |         | [GFS: Evolution on Fast-Forward](http://web.eecs.umich.edu/~mosharaf/Readings/GFS-ACMQueue-2012.pdf) (Optional)
 |         | **Storage and Computation**
-| Jan 23  | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf) | Mosharaf
+| Jan 23  | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf) | [Mosharaf](Slides/012219-MC-FDS-ECCache.pptx)
 |         | [EC-Cache: Load-balanced, Low-latency Cluster Caching with Online Erasure Coding](http://web.eecs.umich.edu/~mosharaf/Readings/EC-Cache.pdf) (Companion)
 |         | [f4: Facebook’s Warm BLOB Storage System](http://web.eecs.umich.edu/~mosharaf/Readings/f4.pdf) (Optional)
 | Jan 25  | [Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Ying-Mengqiu-Shenghao
