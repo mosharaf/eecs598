@@ -93,7 +93,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 20  | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) | Zhuo-Wenche
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
 |         | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) (Optional) | 
-| Mar 25  | [Apache Flink™: Stream and Batch Processing in a Single Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Flink.pdf) | Fan-Keyu-Che
+| Mar 25  | [Apache Flink™: Stream and Batch Processing in a Single Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Flink.pdf) | Zhuo-Wenche
 |         | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf) (Companion)
 | Mar 27  | **Mid-Semester Presentations**
 |         | **Graph Processing**
