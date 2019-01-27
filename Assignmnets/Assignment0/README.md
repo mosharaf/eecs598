@@ -17,7 +17,6 @@ This *non*assignment walks you through the CloudLab registration process and sho
 - Select `Join Existing Project` on the right column and enter `Michigan-BigData` as the project name.
 - Click on `Submit Request`. You will get an email notificaiton after we approve your request. You will be assigned to a subgroup in the project based on your team.
 
-
 NOTE: If you already have a CloudLab account, simply request to join the `Michigan-BigData` project.
 
 ## Start An Experiment
@@ -30,9 +29,18 @@ NOTE: If you already have a CloudLab account, simply request to join the `Michig
 - Make sure project is `Michigan-BigData`, and group is your assigned group.
 - You also need to specify from which cluster you want to start your experiment. Each cluster has different hardwares. For more information on the hardware CloudLab provides, please refer to this [page](http://docs.cloudlab.us/hardware.html).
 - Once the experiment is up and running, go to the "List View" of nodes and you can find the needed SSH command to log into the nodes.
-- **WARNING**: Do **NOT** store any important data without backup on those nodes. Data will be erased when the experiment stops.
 
 ![ListView](./listnodes.png)
+
+## Persistent Storage
+
+Data will be erased when the experiment stops, therefore do **NOT** store any important data without backup on those nodes.
+
+However there is an exception to the above rule.
+For each group, there is a designated location at
+ `/groups/michigan-bigdata-PG0/<group_name>`, which will be persistent across experiments. You can store miscellaneous files here. Only group members have  access to it.
+
+**Note**: there is a space limit on the directory, so do not store extra large data files.
 
 ## Policies on Using CloudLab Resources
 
