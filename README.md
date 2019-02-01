@@ -58,7 +58,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [CIEL: A Universal Execution Engine for Distributed Data-Flow Computing](http://web.eecs.umich.edu/~mosharaf/Readings/CIEL.pdf) (Companion) | 
 |         | [DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language](http://web.eecs.umich.edu/~mosharaf/Readings/DryadLINQ.pdf) (Optional) | 
 |         | **Resource Management and Scheduling**
-| Feb 1   | [Borg: Large-Scale Cluster Management at Google with Borg](http://web.eecs.umich.edu/~mosharaf/Readings/Borg.pdf) | Eric
+| Feb 1   | [Borg: Large-Scale Cluster Management at Google with Borg](http://web.eecs.umich.edu/~mosharaf/Readings/Borg.pdf) | [Eric](Slides/020119-Borg.pptx)
 |         | [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) (Companion)
 |         | [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://web.eecs.umich.edu/~mosharaf/Readings/Mesos.pdf) (Optional)
 |         | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf) (Optional) | 
