@@ -62,7 +62,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) (Companion)
 |         | [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://web.eecs.umich.edu/~mosharaf/Readings/Mesos.pdf) (Optional)
 |         | [YARN: Yet Another Resource Negotiator](http://web.eecs.umich.edu/~mosharaf/Readings/YARN.pdf) (Optional) | 
-| Feb 4   | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | Fan-Keyu-Che
+| Feb 4   | [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](http://web.eecs.umich.edu/~mosharaf/Readings/DRF.pdf) | [Keyu-Che](Slides/020419-DRF+Carbyne.pptx)
 |         | [Altruistic Scheduling in Multi-Resource Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Carbyne.pdf) (Companion)
 |         | [Tetris:Multi-Resource Packing for Cluster Schedulers](http://web.eecs.umich.edu/~mosharaf/Readings/Tetris.pdf) (Optional)
 |         | **Systems for AI**
@@ -88,7 +88,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://web.eecs.umich.edu/~mosharaf/Readings/Impala.pdf) (Companion)
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Optional)
 |         | **Stream Processing**
-| Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | Fan-Keyu-Che
+| Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | Keyu-Che
 |         | [Drizzle: Fast and Adaptable Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Drizzle.pdf) (Companion)
 | Mar 20  | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) | Zhuo-Wenche
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
