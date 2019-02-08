@@ -79,42 +79,44 @@ source !$
 ### Configure SSH
 
 Another important step here is to enable the SSH service among the nodes in the cluster.
-To do this, you need to generate a public/private key pair on each node, and copy the public key to `~/.ssh/authorized_keys` on every nodes (includeing itself). Remember to start a new line in that file.
+A simple way to do this is to enable agent forwarding when you ssh from your local machine. Edit `~/.ssh/config` on your **local** machine (i.e. your laptop), add the following section
 
-To generate the key pair, run
-
-```bash
-ssh-keygen
+```plain
+Host *.utah.cloudlab.us
+    StrictHostKeyChecking no
+    ForwardAgent yes
 ```
 
-in the terminal on the node, and
-accept default settings.
+Then ssh keys available on your local machine will also be available on remote nodes.
 
-Now to copy the public key to the other nodes, first do:
+Note: Do **NOT** enable ssh agent forwarding on hosts you don't trust. This will expose your private key to the remote host, which can then be accessed by any other users on the host.
 
-```bash
-cat ~/.ssh/id_rsa.pub
-```
-
-to display the content. Then on all three nodes, edit `~/.ssh/authorized_keys` and paste the key content on a newline.
-
-Repeat the step for all three nodes.
+The previous documented method of modifying `~/.ssh/authorized_keys` will not work in cloudlab environment, as the file will be refreshed periodically, and any edit will be lost.
 
 If you setup the keys correctly, you should be able to ssh from one node to another, as well as ssh into itself:
 
 ```bash
 # from node-0
 ssh localhost
+exit
 ssh <node-1-address>
+exit
 ssh <node-2-address>
+exit
 # from node-1
 ssh localhost
+exit
 ssh <node-0-address>
+exit
 ssh <node-2-address>
+exit
 # from node-2
 ssh localhost
+exit
 ssh <node-0-address>
+exit
 ssh <node-1-address>
+exit
 ```
 
 Remember to type `exit` to exit from the ssh login before doing another ssh command.
