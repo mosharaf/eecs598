@@ -82,7 +82,7 @@ Another important step here is to enable the SSH service among the nodes in the 
 A simple way to do this is to enable agent forwarding when you ssh from your local machine. Edit `~/.ssh/config` on your **local** machine (i.e. your laptop), add the following section
 
 ```plain
-Host *.utah.cloudlab.us
+Host node-*
     StrictHostKeyChecking no
     ForwardAgent yes
 ```
@@ -99,35 +99,44 @@ If you setup the keys correctly, you should be able to ssh from one node to anot
 # from node-0
 ssh localhost
 exit
-ssh <node-1-address>
+ssh node-1
 exit
-ssh <node-2-address>
+ssh node-2
 exit
 # from node-1
 ssh localhost
 exit
-ssh <node-0-address>
+ssh node-0
 exit
-ssh <node-2-address>
+ssh node-2
 exit
 # from node-2
 ssh localhost
 exit
-ssh <node-0-address>
+ssh node-0
 exit
-ssh <node-1-address>
+ssh node-1
 exit
 ```
 
 Remember to type `exit` to exit from the ssh login before doing another ssh command.
 
-Note: the node address is simply the last part of the ssh command you used to log into that node. I.e., if the command is
+### The address of a node
+
+The nodes in the experiment are configured to use unqualified names to connect to each other. You should be able to access other nodes using simply
+`node-0`, `node-1` and `node-2`. These are the addresses you should use in any configuration files you need to modify.
+
+There is also a public address associated with each node, i.e.,the last part of the ssh command you used to log into that node. If the command is
 
 ```bash
 ssh -p 22 peifeng@hp174.utah.cloudlab.us
 ```
 
 then the address is `hp174.utah.cloudlab.us`.
+
+This public address should be used if you want to access the node from outside of the experiment, for example, your laptop. So if you want to access the web UI of any application from your laptop's browser, you should use the qualified address.
+
+**Note: Never use public address in any of the configuration files, it will cause your experiment be terminated immediately.**
 
 ### Extend disk
 
@@ -178,25 +187,52 @@ tar xvf /bigdata/software/spark-2.2.3-bin-hadoop2.7.tgz -C $HOME
 
 Instructions on building a spark cluster can be found in Spark's [official document](http://spark.apache.org/docs/2.2.3/spark-standalone.html).
 
-#### Start master daemon
+#### Configurate Spark
 
-To start the Spark master daemon on one of the nodes, do
+By default, Spark can automatically discover some network settings. However, to ensure Spark do not use public addresses, we need to configure it.
 
-```bash
-spark-2.2.3-bin-hadoop2.7/sbin/start-master.sh
-```
+We will use `node-0` as the Spark Master, and `node-1`, `node-2` as Spark Worker. The following config files should be edited on all three nodes.
 
-You can go to `<master_node_address>:8080` to check the status of the Spark cluster.
+##### `spark-2.2.3-bin-hadoop2.7/conf/slaves`
 
-#### Start slave daemon
-
-To start the Spark slave daemon on the other two nodes, do
+This file tells Spark where its workers are. First copy this file from its template
 
 ```bash
-spark-2.2.3-bin-hadoop2.7/sbin/start-slave.sh <master-spark-URL>
+cp spark-2.2.3-bin-hadoop2.7/conf/slaves{.template,}
 ```
 
-where the `<master-spark-URL>` is what you found in the cluster webpage.
+Edit it to include only 2 lines
+
+```plain
+node-1
+node-2
+```
+
+##### `spark-2.2.3-bin-hadoop2.7/conf/spark-env.sh`
+
+This file tells Spark which address it should bind to for master. Start by copying from template
+
+```bash
+cp spark-2.2.3-bin-hadoop2.7/conf/spark-env.sh{.template,}
+```
+
+Add a line containing
+
+```plain
+SPARK_MASTER_HOST=node-0
+```
+
+#### Start Spark
+
+On the master node (`node-0`), do
+
+```bash
+spark-2.2.3-bin-hadoop2.7/sbin/start-all.sh
+```
+
+This will start master as well as workers on corresponding nodes.
+
+You can go to `<master_node_public_address>:8080` to check the status of the Spark cluster.
 
 #### Verify
 
@@ -238,7 +274,7 @@ There are a few configuration files you need to edit. They are originally empty 
 
 ##### `hadoop-2.7.7/etc/hadoop/core-site.xml`
 
-Add the following contents in the `<property>` field in `hadoop-2.7.7/etc/hadoop/core-site.xml`, replacing `namenode_IP` with your master node's address:
+Add the following contents in the `<property>` field in `hadoop-2.7.7/etc/hadoop/core-site.xml`, replacing `namenode_IP` with your master node's address (**NOT** the public address, but something like `node-{1,2,3}`):
 
 ```xml
 <configuration>
