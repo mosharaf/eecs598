@@ -68,7 +68,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Systems for AI**
 | Feb 6   | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | [Peifeng](Slides/020619-PY-TF-Ray.pptx)
 |         | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) (Companion) |
-| Feb 11  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | Yifu-Bochan-Junding
+| Feb 11  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | [Yifu-Bochan-Junding](Slides/021119-Parameter-Server+STRADS.pptx)
 |         | [STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/STRADS.pdf) (Companion)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
 | Feb 13  | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf) | Yifu-Bochan-Junding
