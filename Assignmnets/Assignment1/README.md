@@ -41,13 +41,14 @@ Inside it we provide JDK 1.8 for you so you do not have to install it by yoursel
 
 ### Setup software
 
-You need to first set up the correct `JAVA_HOME` and add it to the shell search `PATH`. For each node in the cluster, log in and execute the following commands in the terminal:
+You need to first set up the correct `JAVA_HOME` and add it to the shell search `PATH`. For each node in the cluster, add the following lines to the very **beginning** of `~/.bashrc`:
 
 ```bash
-echo "export JAVA_HOME=/bigdata/jdk1.8.0_201
-export PATH=\${JAVA_HOME}/bin:\$PATH" >> ~/.bashrc
-source !$
+export JAVA_HOME=/bigdata/jdk1.8.0_201
+export PATH=${JAVA_HOME}/bin:$PATH"
 ```
+
+If you see errors related to `JAVA_HOME` not set when starting Spark or Hadoop HDFS, check the location of these two lines.
 
 ### Setup Programming Language
 
