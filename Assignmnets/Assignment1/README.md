@@ -82,12 +82,19 @@ Another important step here is to enable the SSH service among the nodes in the 
 A simple way to do this is to enable agent forwarding when you ssh from your local machine. Edit `~/.ssh/config` on your **local** machine (i.e. your laptop), add the following section
 
 ```plain
-Host node-*
+Host *.utah.cloudlab.us
     StrictHostKeyChecking no
     ForwardAgent yes
 ```
 
 Then ssh keys available on your local machine will also be available on remote nodes.
+
+To disable the warning asking about trusted host keys, edit `~/.ssh/config` on each of the three **nodes**:
+
+```plain
+Host node-*
+    StrictHostKeyChecking no
+```
 
 Note: Do **NOT** enable ssh agent forwarding on hosts you don't trust. This will expose your private key to the remote host, which can then be accessed by any other users on the host.
 
