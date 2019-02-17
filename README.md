@@ -71,7 +71,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb 11  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/Parameter-Server.pdf) | [Yifu-Bochan-Junding](Slides/021119-Parameter-Server+STRADS.pptx)
 |         | [STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/STRADS.pdf) (Companion)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) (Optional)
-| Feb 13  | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf) | Yifu-Bochan-Junding
+| Feb 13  | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf) | [Yifu-Bochan-Junding](Slides/021319-Clipper+DeepCPU.pptx)
 |         | [DeepCPU: Serving RNN-based Deep Learning Models 10x Faster](http://web.eecs.umich.edu/~mosharaf/Readings/DeepCPU.pdf) (Companion)
 |         | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) (Optional)
 | Feb 18  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | Zerihun-Yutian-ChihYu
