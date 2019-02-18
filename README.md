@@ -79,14 +79,14 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb 20  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Juncheng
 |         | [Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Optimus.pdf) (Companion)
 |         | [Gandiva: Introspective Cluster Scheduling for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Gandiva.pdf) (Optional)
-|         | **Video Analytics**
-| Feb 25  | [Chameleon: Scalable Adaptation of Video Analytics](http://web.eecs.umich.edu/~mosharaf/Readings/Chameleon.pdf) | Romil-Frederick-Anant
-|         | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) (Companion)
-|         | [NoScope: Optimizing Neural Network Queries over Video at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/NoScope.pdf) (Optional)
 |         | **SQL**
-| Mar 11  | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Romil-Frederick-Anant
+| Feb 25  | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Fan
 |         | [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://web.eecs.umich.edu/~mosharaf/Readings/Impala.pdf) (Companion)
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Optional)
+|         | **Video Analytics**
+| Mar 11  | [Chameleon: Scalable Adaptation of Video Analytics](http://web.eecs.umich.edu/~mosharaf/Readings/Chameleon.pdf) | Peifeng
+|         | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) (Companion)
+|         | [NoScope: Optimizing Neural Network Queries over Video at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/NoScope.pdf) (Optional)
 |         | **Stream Processing**
 | Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | Keyu-Che
 |         | [Drizzle: Fast and Adaptable Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Drizzle.pdf) (Companion)
