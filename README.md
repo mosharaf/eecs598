@@ -74,7 +74,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb 13  | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf) | [Yifu-Bochan-Junding](Slides/021319-Clipper+DeepCPU.pptx)
 |         | [DeepCPU: Serving RNN-based Deep Learning Models 10x Faster](http://web.eecs.umich.edu/~mosharaf/Readings/DeepCPU.pdf) (Companion)
 |         | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) (Optional)
-| Feb 18  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | Zerihun-Yutian-ChihYu
+| Feb 18  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | [Zerihun-Yutian](Slides/021819-TVM+Janus.pptx)
 |         | [Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf) (Companion)
 | Feb 20  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Juncheng
 |         | [Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Optimus.pdf) (Companion)
@@ -100,7 +100,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Apr 1   | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf) | Ying-Mengqiu-Shenghao
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
 |         | **Approximate Big Data**
-| Apr 3   | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Zerihun-Yutian-ChihYu
+| Apr 3   | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Zerihun-Yutian
 |         | [BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkML.pdf) (Companion)
 |         | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) (Optional)
 |         | **New Hardware Trends**
