@@ -76,7 +76,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) (Optional)
 | Feb 18  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | [Zerihun-Yutian](Slides/021819-TVM+Janus.pptx)
 |         | [Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf) (Companion)
-| Feb 20  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Juncheng
+| Feb 20  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | [Juncheng](Slides/022019-Tiresias+Optimus.pptx)
 |         | [Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Optimus.pdf) (Companion)
 |         | [Gandiva: Introspective Cluster Scheduling for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Gandiva.pdf) (Optional)
 |         | **SQL**
