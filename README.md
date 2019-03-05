@@ -80,7 +80,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Optimus.pdf) (Companion)
 |         | [Gandiva: Introspective Cluster Scheduling for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Gandiva.pdf) (Optional)
 |         | **SQL**
-| Feb 25  | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | Fan
+| Feb 25  | [Spark SQL: Relational Data Processing in Spark](http://web.eecs.umich.edu/~mosharaf/Readings/SparkSQL.pdf) | [Fan](Slides/022519-SparkSQL+Impala.pptx)
 |         | [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://web.eecs.umich.edu/~mosharaf/Readings/Impala.pdf) (Companion)
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Optional)
 |         | **Video Analytics**
