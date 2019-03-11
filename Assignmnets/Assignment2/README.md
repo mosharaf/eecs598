@@ -4,9 +4,6 @@ Gain a hands-on understanding of TensorFlow
 
 Due: __Apr 5, 2019, 11:59 PM__
 
-Note: Currently the Cloudlab utah cluster is having some network issues. So you cannot create experiments.
-Stay tuned for an announcement later with updated instructions once the issue clears .
-
 ## Overview
 
 [TensorFlow](https://www.tensorflow.org/) is an open source software library for numerical computation using data flow graphs. As a successor to [DistBelief](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf), TensorFlow was originally designed to build a machine learning system that operates at
@@ -37,9 +34,11 @@ After completing this programming assignment, students should be able to:
 
 ## Overall Architecture
 
-In this section, we give a brief introduction of the overall architecure of TensorFlow and how it works in a high level. You are encouraged to read more elsewhere (official documents, papers, etc.) to consolidate your understand in TensorFlow. To start a TensorFlow workload, users first write the client TensorFlow program that builds the computation graph. The client program then creates the session and starts the work (training process in our case). In a single-machine TensorFlow setting, TensorFlow includes a session implemented to communicate only with the local device.
+In this section, we give a brief introduction of the overall architecure of TensorFlow and how it works in a high level. You are encouraged to read more elsewhere (official documents, papers, etc.) to consolidate your understand in TensorFlow.
 
-In a distributed TensorFlow setting as shown below, the session that the client program creates will send the graph definition to the distributed master encoded using protobuf.
+To start a TensorFlow workload, users first write the client TensorFlow program that builds the computation graph. The client program then creates the session and starts the work (training process in our case).
+
+In the distributed TensorFlow setting, the session that the client program creates will send the graph definition to the distributed master using gRPC.
 When the client evaluates a node or nodes in the graph, the evaluation triggers a call to the distributed master to initiate computation.
 The main responsibility of the distributed master is to partition the graph and send subgraphs to the workers.
 The dataflow executor in each worker node handles requests from the master, and schedules the execution of the kernels that comprise a local subgraph. Each worker completes the task in parallel, and the communication among the workers is done via some send and receive nodes inserted by the distributed master.
@@ -60,25 +59,27 @@ sudo apt-get install python-pip python-dev
 sudo pip install tensorflow
 ```
 
-## Task 1: TensorFlow in A Single Node
+## Task 1: Distributed TensorFlow in A Single Node
 
 In this assignment, we provide you two machine learning workloads.
 One implements AlexNet, a type of a convolutional neural network (CNN). The other one implements a type of deep convolutional network called VGGNet.
 
-In the group directory, we have provided you with the single-machine version of these two workloads, as well as a script, `startserver.py`,
-which contains the [cluster specification](https://www.tensorflow.org/api_docs/python/tf/train/ClusterSpec) and can be used to start your cluster.
-First copy everything under `/proj/michigan-bigdata-PG0/assignments/assignments2/` to your home directory and start from there.
+The implementation we provided only consider devices within a single machine. Therefore we first set up
+a single-machine TensorFlow cluster to try out these workloads.
 
-Do keep in mind you need to modify `startserver.py` according to your cluster specification in order to use it. You can also write your own scripts to start your cluster.
+Under `/bigdata`, you can find needed code, as well as a script, `startserver.py`,
+which contains the [cluster specification](https://www.tensorflow.org/api_docs/python/tf/train/ClusterSpec) and can be used to start your cluster.
+First copy everything under `/bigdata/assignments/assignments2/` to your home directory and start from there.
+
+Do keep in mind you need to modify `startserver.py` according to your cluster specification in order to use it. Also, it is not required to use the provided script at all. You can write your own scripts to start your cluster.
 
 The TensorFlow code we provide may seem a bit complicated when you first look at it.
 In this assignment, we do not focus on machine learning concepts, so it is fine if you do not follow how the AlexNet and VggNet is implemented in the code, but you should first take some time to read through the code to get a sense of what is going on in a high level, and how input parameters are passed through function calls, as well as how they affect the program.
 
-To start training AlexNet on a single machine, first use the `startserver.py` script to start the device.
-If you choose to use the script we give you, you can do:
+To start training AlexNet on a single machine, first use the `startserver.py` script to start the server:
 
 ```bash
-python startserver.py --deploy_mode=single
+./startserver.py --deploy_mode=single
 ```
 
 Then launch the TensorFlow client program:
@@ -88,6 +89,20 @@ python -m hybridalex.scripts.train --network alexnet --mode 1dev
 ```
 
 You may want to use two terminals to run the above two commands speparately.
+
+Note: pass `--help` to the client program to see what options are available.
+
+```bash
+python -m hybridalex.scripts.train --help
+```
+
+Note: to stop the server, press `Ctrl+Z` and then execute
+
+```bash
+kill -9 -$(jobs -p)
+```
+
+Note: **restart all servers between any new run of the client program, otherwise you may see cryptic error messages.**
 
 Use the default batch size and batch number, answer the following questions:
 
@@ -105,7 +120,7 @@ Use TensorBoard to visualize the graph created in the AlexNet trainning process 
 The necessary logging has already been included in the code we provide you, so you simply [launch TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard) to view the graph.
 Keep a screenshot of the graph for submission.
 
-**Question 5.** Repeat Question 1 and 4 using VggNet with other parameters set to default.
+**Question 5.** Repeat Question 1 and 4 using VggNet with other parameters set to default. Note this will be really slow because VggNet is a really dense CNN model. So plan ahead and have enough time for this question.
 
 ## Task 2: Distributed TensorFlow
 
@@ -131,6 +146,8 @@ Then apply the gradients with `apply_gradients' on the parameter server the same
 6. Finally, return the same parameters as the single-machine version code does.
 
 Answer the following questions after you finish implementing the distributed version of AlexNet and VggNet.
+
+Note for deploying TensorFlow on multiple nodes: you will need to execute `startserver.py` on each on the node with appropriate arguments, run `./startserver.py --help` to find available arguments to use.
 
 **Question 6.** Run distributed AlexNet training using 1 parameter server and 2 workers.
 Record the completion time of the task and compare with the result you get in Question 1. Consider what batch size you should set for a fair comparison.
