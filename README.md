@@ -88,7 +88,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) (Companion)
 |         | [NoScope: Optimizing Neural Network Queries over Video at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/NoScope.pdf) (Optional)
 |         | **Stream Processing**
-| Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | Keyu-Che
+| Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | [Keyu-Che](Slides/031819-SparkSQL+Drizzle.pptx)
 |         | [Drizzle: Fast and Adaptable Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Drizzle.pdf) (Companion)
 | Mar 20  | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) | Zhuo-Wenche
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
