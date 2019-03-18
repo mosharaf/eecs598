@@ -84,7 +84,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://web.eecs.umich.edu/~mosharaf/Readings/Impala.pdf) (Companion)
 |         | [Major Technical Advancements in Apache Hive](http://web.eecs.umich.edu/~mosharaf/Readings/Hive.pdf) (Optional)
 |         | **Video Analytics**
-| Mar 11  | [Chameleon: Scalable Adaptation of Video Analytics](http://web.eecs.umich.edu/~mosharaf/Readings/Chameleon.pdf) | Peifeng
+| Mar 11  | [Chameleon: Scalable Adaptation of Video Analytics](http://web.eecs.umich.edu/~mosharaf/Readings/Chameleon.pdf) | [Peifeng](Slides/031119-Chameleon+Focus.pptx)
 |         | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) (Companion)
 |         | [NoScope: Optimizing Neural Network Queries over Video at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/NoScope.pdf) (Optional)
 |         | **Stream Processing**
