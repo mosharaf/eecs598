@@ -90,7 +90,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Stream Processing**
 | Mar 18  | [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Spark-Streaming.pdf) | [Keyu-Che](Slides/031819-SparkSQL+Drizzle.pptx)
 |         | [Drizzle: Fast and Adaptable Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Drizzle.pdf) (Companion)
-| Mar 20  | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) | Zhuo-Wenche
+| Mar 20  | [Storm @Twitter](http://web.eecs.umich.edu/~mosharaf/Readings/Storm-Twitter.pdf) | [Zhuo-Wenche](Slides/032019-Storm+Heron.key)
 |         | [Twitter Heron: Stream Processing at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/Heron.pdf) (Companion)
 |         | [Realtime Data Processing at Facebook](http://web.eecs.umich.edu/~mosharaf/Readings/Facebook-Streaming.pdf) (Optional) |
 | Mar 25  | [Apache Flink™: Stream and Batch Processing in a Single Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Flink.pdf) | Zhuo-Wenche
