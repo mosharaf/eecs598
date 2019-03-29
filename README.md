@@ -96,7 +96,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 25  | [Apache Flink™: Stream and Batch Processing in a Single Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Flink.pdf) | [Zhuo-Wenche](Slides/032519-Flink+Naiad.key)
 |         | [Naiad: A Timely Dataflow System](http://web.eecs.umich.edu/~mosharaf/Readings/Naiad.pdf) (Companion)
 |         | **Graph Processing**
-| Mar 27  | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf) | Ying-Mengqiu-Shenghao
+| Mar 27  | [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](http://web.eecs.umich.edu/~mosharaf/Readings/PowerGraph.pdf) | [Ying-Mengqiu-Shenghao](Slides/032719-PowerGraph+GraphX.pptx)
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
 | Mar 29  | **Mid-Semester Presentations**
 |         | **Approximate Big Data**
