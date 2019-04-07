@@ -100,7 +100,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [GraphX: Graph Processing in a Distributed Dataflow Framework](http://web.eecs.umich.edu/~mosharaf/Readings/GraphX.pdf) (Companion)
 | Mar 29  | **Mid-Semester Presentations**
 |         | **Approximate Big Data**
-| Apr 3   | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | Zerihun-Yutian
+| Apr 3   | [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkDB.pdf) | [Zerihun-Yutian](Slides/040319-BlinkDB+BlinkML.pptx)
 |         | [BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkML.pdf) (Companion)
 |         | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) (Optional)
 |         | **New Hardware Trends**
