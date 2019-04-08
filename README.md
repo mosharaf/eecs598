@@ -104,7 +104,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/BlinkML.pdf) (Companion)
 |         | [Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Quickr.pdf) (Optional)
 |         | **New Hardware Trends**
-| Apr 8   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | Eric
+| Apr 8   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | [Eric](Slides/040819-Infiniswap+RDMADB.pptx)
 |         | [Accelerating Relational Databases by Leveraging Remote Memory and RDMA](http://web.eecs.umich.edu/~mosharaf/Readings/RDMA-DB.pdf) (Companion)
 |         | [Remote Memory in the Age of Fast Networks](http://web.eecs.umich.edu/~mosharaf/Readings/RemMem-FastNet.pdf) (Optional)
 | Apr 10  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | Mosharaf
