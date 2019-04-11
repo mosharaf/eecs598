@@ -107,7 +107,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Apr 8   | [Efficient Memory Disaggregation with Infiniswap](http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf) | [Eric](Slides/040819-Infiniswap+RDMADB.pptx)
 |         | [Accelerating Relational Databases by Leveraging Remote Memory and RDMA](http://web.eecs.umich.edu/~mosharaf/Readings/RDMA-DB.pdf) (Companion)
 |         | [Remote Memory in the Age of Fast Networks](http://web.eecs.umich.edu/~mosharaf/Readings/RemMem-FastNet.pdf) (Optional)
-| Apr 10  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | Mosharaf
+| Apr 10  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | [Mosharaf](Slides/041019-TPU+DUA.pptx)
 |         | [Direct Universal Access: Making Data Center Resources Available to FPGA](http://web.eecs.umich.edu/~mosharaf/Readings/DUA.pdf) (Companion)
 | Apr 15  | **Wrap Up** | Mosharaf
 | Apr 22  | **Final Presentations** |
