@@ -36,9 +36,17 @@ Possible topics could be the headings of our schedule or based on certain themes
 * Graph Processing
 * RDMA-Enabled Systems
 
+## Before You Start
 Before you start, however, **you must email your group members, two possible topics (we'll try to pick one of the two), and three representative papers on each topic to `eecs598-bigdata-staff@umich.edu` by Apr 5 and receive a confirmation.**
 These three representative papers should represent the topic and direction of your survey.
 To do a great job on this assignment, you are expected to find more than three papers as your reference (10 or above could be a good indication of efforts).
+
+## Presentation
+Every group will have to do a 5-minute or less **in-class presentation on April 22** addressing the following:
+
+* What is the survey topic?
+* What are the key categories and example systems in those categories?
+* What criteria did you use to categorize?
 
 ## Survey Structure
 At a high level, your survey should have the following sections.
