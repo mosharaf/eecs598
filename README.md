@@ -48,7 +48,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Jan 10  | **Introduction** | Mosharaf
 |         | **Background**
 | Jan 13  | The Datacenter as a Computer (Chapters 1 and 2) | Mosharaf
-|         | VL2: A Scalable and Flexible Data Center Networ
+|         | VL2: A Scalable and Flexible Data Center Network
 | Jan 15  | Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing 
 |         | Flat Datacenter Storage
 |         | **Frameworks**
@@ -63,7 +63,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | Supporting Very Large Models using Automatic Dataflow Graph Partitioning
 | Feb 10  | Towards Federated Learning at Scale: System Design
 |         | Scaling Video Analytics on Constrained Edge Nodes
-|         | **Runtime Execution and Compilers**
+|         | **Runtime and Compiler Optimizations**
 | Feb 12  | JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs
 |         | TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions
 | Feb 17  | TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
@@ -76,26 +76,26 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Hyperparameter Tuning**
 | Feb 26  | Google Vizier: A Service for Black-Box Optimization
 |         | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization
-|         | **Scheduling and Resource Management**
-| Mar 9   | Tiresias: A GPU Cluster Manager for Distributed Deep Learning
-|         | Gandiva: Introspective Cluster Scheduling for Deep Learning
-| Mar 11  | Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications
-|         | SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks
+|         | **Testing, Verification, Security, and Privacy**
+| Mar 9   | DeepXplore: Automated Whitebox Testing of Deep Learning Systems
+|         | DeepBase: Deep Inspection of Neural Networks
+| Mar 11  | Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform
+|         | SecureML: A System for Scalable Privacy-Preserving Machine Learning
 | Mar 16  | **Mid-Semester Presentations**
 | Mar 18  | **Mid-Semester Presentations**
-|         | **Testing, Security, Privacy, and Verification**
-| Mar 23  | DeepXplore: Automated Whitebox Testing of Deep Learning Systems
-|         | DeepBase: Deep Inspection of Neural Networks
-| Mar 25  | Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform
-|         | SecureML: A System for Scalable Privacy-Preserving Machine Learning
-|         | **Hardware**
-| Mar 30  | In-Datacenter Performance Analysis of a Tensor Processing Unit
-|         | Serving DNNs in Real Time at Datacenter Scale with Project Brainwave
-|         | **ML Platforms in Practice**
-| Apr 1   | Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads
+|         | **ML Systems in Practice**
+| Mar 23  | Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads
 |         | TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
-| Apr 6   | Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective
+| Mar 25  | Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective
 |         | Machine Learning at Facebook: Understanding Inference at the Edge
+|         | **Scheduling and Resource Management**
+| Mar 30  | Tiresias: A GPU Cluster Manager for Distributed Deep Learning
+|         | Gandiva: Introspective Cluster Scheduling for Deep Learning
+| Apr 1   | Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications
+|         | SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks
+|         | **Emerging Hardware**
+| Apr 6   | In-Datacenter Performance Analysis of a Tensor Processing Unit
+|         | Serving DNNs in Real Time at Datacenter Scale with Project Brainwave
 |         | **ML for Systems**
 | Apr 8   | Neural Packet Classification
 |         | Learning Scheduling Algorithms for Data Processing Clusters
@@ -157,7 +157,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Keep revising your initial idea and incorporate instructor feedback. However, your project proposal must be finalized and approved on or before **February 14**.
 * Each group must present mid-semester progress during class hours on **March 16 and March 18**.
 * Each group must present their final results during a presentation or poster session on **April 15**.
-* Each group must turn in an 8-page final report and your code via email **on or before 11:59PM EST on April 22.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
+* Each group must turn in an 8-page final report and your code via email **on or before 11:59PM EST on April 21.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 ## Grading
 |                         | Weight | Description | 
