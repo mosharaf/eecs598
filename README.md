@@ -47,58 +47,58 @@ We will read recent papers from top venues to understand trends in big data syst
 | --------| -------------------------------| ---------
 | Jan 10  | **Introduction** | Mosharaf
 |         | **Background**
-| Jan 13  | The Datacenter as a Computer (Chapters 1 and 2) | Mosharaf
-|         | VL2: A Scalable and Flexible Data Center Network
-| Jan 15  | Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing 
-|         | Flat Datacenter Storage
+| Jan 13  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | Mosharaf
+|         | [VL2: A Scalable and Flexible Data Center Network](http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf)
+| Jan 15  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) 
+|         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
 |         | **Frameworks**
-| Jan 22  | TensorFlow: A System for Large-Scale Machine Learning
-|         | PyTorch: An Imperative Style, High-Performance Deep Learning Library
-| Jan 27  | Ray: A Distributed Framework for Emerging AI Applications
-|         | Dynamic Control Flow in Large-Scale Machine Learning
+| Jan 22  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf)
+|         | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](http://web.eecs.umich.edu/~mosharaf/Readings/PyTorch.pdf)
+| Jan 27  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf)
+|         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
 |         | **Distributed and Federated Learning**
-| Jan 29  | Scaling Distributed Machine Learning with the Parameter Server
-|         | STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning
-| Feb 3   | PipeDream: Generalized Pipeline Parallelism for DNN Training
-|         | Supporting Very Large Models using Automatic Dataflow Graph Partitioning
-| Feb 10  | Towards Federated Learning at Scale: System Design
-|         | Scaling Video Analytics on Constrained Edge Nodes
+| Jan 29  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf)
+|         | [STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/STRADS.pdf)
+| Feb 3   | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf)
+|         | [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](http://web.eecs.umich.edu/~mosharaf/Readings/Tofu.pdf)
+| Feb 10  | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf)
+|         | [Scaling Video Analytics on Constrained Edge Nodes](http://web.eecs.umich.edu/~mosharaf/Readings/FilterForward.pdf)
 |         | **Runtime and Compiler Optimizations**
-| Feb 12  | JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs
-|         | TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions
-| Feb 17  | TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
-|         | An Intermediate Representation for Optimizing Machine Learning Pipelines
+| Feb 12  | [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf)
+|         | [TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions](http://web.eecs.umich.edu/~mosharaf/Readings/TASO.pdf)
+| Feb 17  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf)
+|         | [An Intermediate Representation for Optimizing Machine Learning Pipelines](http://web.eecs.umich.edu/~mosharaf/Readings/IR-Pipeline.pdf)
 |         | **Serving Systems and Inference**
-| Feb 19  | Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems
-|         | Parity Models: Erasure-Coded Resilience for Prediction Serving Systems
-| Feb 24  | GRNN: Low-Latency and Scalable RNN Inference on GPUs
-|         | Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis
+| Feb 19  | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf)
+|         | [Parity Models: Erasure-Coded Resilience for Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/ParM.pdf)
+| Feb 24  | [GRNN: Low-Latency and Scalable RNN Inference on GPUs](http://web.eecs.umich.edu/~mosharaf/Readings/GRNN.pdf)
+|         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
 |         | **Hyperparameter Tuning**
-| Feb 26  | Google Vizier: A Service for Black-Box Optimization
-|         | Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization
+| Feb 26  | [Google Vizier: A Service for Black-Box Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/Vizier.pdf)
+|         | [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/HyperBand.pdf)
+| Mar 9   | **Mid-Semester Presentations**
+| Mar 11  | **Mid-Semester Presentations**
 |         | **Testing, Verification, Security, and Privacy**
-| Mar 9   | DeepXplore: Automated Whitebox Testing of Deep Learning Systems
-|         | DeepBase: Deep Inspection of Neural Networks
-| Mar 11  | Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform
-|         | SecureML: A System for Scalable Privacy-Preserving Machine Learning
-| Mar 16  | **Mid-Semester Presentations**
-| Mar 18  | **Mid-Semester Presentations**
+| Mar 16  | [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](http://web.eecs.umich.edu/~mosharaf/Readings/DeepXplore.pdf)
+|         | [DeepBase: Deep Inspection of Neural Networks](http://web.eecs.umich.edu/~mosharaf/Readings/DeepBase.pdf)
+| Mar 18  | [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](http://web.eecs.umich.edu/~mosharaf/Readings/Sage.pdf)
+|         | [SecureML: A System for Scalable Privacy-Preserving Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/SecureML.pdf)
 |         | **ML Systems in Practice**
-| Mar 23  | Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads
-|         | TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
-| Mar 25  | Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective
-|         | Machine Learning at Facebook: Understanding Inference at the Edge
+| Mar 23  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf)
+|         | [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://web.eecs.umich.edu/~mosharaf/Readings/TFX.pdf)
+| Mar 25  | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf)
+|         | [Machine Learning at Facebook: Understanding Inference at the Edge](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML-Edge.pdf)
 |         | **Scheduling and Resource Management**
-| Mar 30  | Tiresias: A GPU Cluster Manager for Distributed Deep Learning
-|         | Gandiva: Introspective Cluster Scheduling for Deep Learning
-| Apr 1   | Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications
-|         | SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks
+| Mar 30  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf)
+|         | [Gandiva: Introspective Cluster Scheduling for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Gandiva.pdf)
+| Apr 1   | [Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Salus.pdf)
+|         | [SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks](http://web.eecs.umich.edu/~mosharaf/Readings/SuperNeurons.pdf)
 |         | **Emerging Hardware**
-| Apr 6   | In-Datacenter Performance Analysis of a Tensor Processing Unit
-|         | Serving DNNs in Real Time at Datacenter Scale with Project Brainwave
+| Apr 6   | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf)
+|         | [Serving DNNs in Real Time at Datacenter Scale with Project Brainwave](http://web.eecs.umich.edu/~mosharaf/Readings/Brainwave.pdf)
 |         | **ML for Systems**
-| Apr 8   | Neural Packet Classification
-|         | Learning Scheduling Algorithms for Data Processing Clusters
+| Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf)
+|         | [Learning Scheduling Algorithms for Data Processing Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Decima.pdfwenb)
 | Apr 13  | **Wrap Up** | Mosharaf
 | Apr 15  | **Final Presentations** |
 
@@ -155,7 +155,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Form a group of 2-3 members by **January 20**.
 * Turn in a 2-page draft proposal (including references) by **January 31**. Remember to include the names and Michigan email addresses of the group members. Schedule a 15-minute meeting to pitch your idea and to get early feedback.
 * Keep revising your initial idea and incorporate instructor feedback. However, your project proposal must be finalized and approved on or before **February 14**.
-* Each group must present mid-semester progress during class hours on **March 16 and March 18**.
+* Each group must present mid-semester progress during class hours on **March 9 and March 11**.
 * Each group must present their final results during a presentation or poster session on **April 15**.
 * Each group must turn in an 8-page final report and your code via email **on or before 11:59PM EST on April 21.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
