@@ -107,45 +107,55 @@ We will read recent papers from top venues to understand trends in big data syst
 ### Honor Code
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
 
-### Paper Reviews
-Read all the papers of each day carefully and **write your own paper review**. Being able to critically judge others’ work is crucial for your understanding. 
-For papers that require summaries, you must address a number of questions including:
+### Groups
+All activities of this course will be performed in **groups of 2-3 students**.
+
+[Declare your group's membership and paper preferences](https://forms.gle/YrrMqnWsBRFfcr9s8) by January 20, 2020. 
+After this date, we will form groups from the remaining students.
+
+### Paper Presentation
+The course will be conducted as a seminar. 
+Only one group will present in each class.
+Each group will be assigned to present a paper at least once throughout the semester. 
+Presentations should last **at most 45 minutes** without interruption.
+However, presenters should expect questions and interruptions throughout. 
+In the presentation, you should:
+
+* Motivate the paper and provide background.
+* Present the high level idea, approach, and/or insight (using examples, whenever appropriate). 
+* Discuss technical details so that one can understand the key details without carefully reading it.
+* Explain the difference between this paper and related work.
+* Raise questions throughout the presentation to generate discussion.
+
+*The slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.* 
+You should use [this template](Slides/Template.pptx) for making your slides in powerpoint.
+
+### Paper Summaries
+Each group will also be assigned to write one or more paper summaries. 
+The paper summary assigned to a group may not be the same paper they have presented.
+
+A paper summary must address the following four questions in sufficient details (2-3 pages):
 
 * What is the problem addressed by the paper, and why is this problem important?
 * What is the hypothesis of the work?
 * What is the proposed solution, and what key insight guides their solution?
 * What is one (or more) drawback or limitation of the proposal, and how will you improve it?
 
-*The paper reviews of each day must be submitted electronically at least 24 hours prior to the corresponding class.*
-Late reviews will not be counted.
-You can miss up to 4 paper reviews during the term without penalty.
-Each missing review beyond the fourth one will result in 25% decrease in grade for paper reviews.
-Meaning, failing to turn in 8 or more reviews on time will result in a zero for all paper reviews.
+*The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
+**Late reviews will not be counted.** 
+You should use [this template](Summaries/Template.md) for writing your summary.
+Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.
 
-The grade for this part will be assigned as follows: at the end of the term, 2 of your reviews will be randomly selected and graded.
-The higher grade of the two will be used for grading.
-
-Submit reviews via [HotCRP](https://bigdata1.eecs.umich.edu/).
-
-### Paper Presentation
-The course will be conducted as a seminar.
-Depending on the final class size, presentations will be done in groups or individually.
-Each student, indiviudally or in group, will be assigned to present two papers (mandatory and companion) on the same day at least once throughout the semester.
-Presentations should last **at most 45 minutes** without interruption.
-However, presenters should expect questions and interruptions throughout.
-In the presentation, you should:
-
-* Motivate the paper and provide background.
-* Present the high level idea, approach, and/or insight (using examples, whenever appropriate).
-* Discuss technical details so that one can understand the key details without carefully reading it.
-* Explain the difference between this paper and related work.
-* Raise questions throughout the presentation to generate discussion.
-
-*The slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.*
-You should use [this template](Slides/Template.pptx) for making your slides in powerpoint.
+Because you do not have to write summaries/reviews for each paper, you cannot avoid reading a paper. 
+Everyone is expected to have read all the papers. 
+Being able to critically judge others' work is crucial for your understanding. 
 
 ### Participation
 You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
+
+A key part of participation will be in the form of discussion in piazza.
+The group in charge of the summary should initiate the discussion and the rest should participate.
+Not everyone must have add something every day, but it is expected that everyone has something to say over the semester.
 
 ### Project
 You will have to complete substantive work an instructor-approved problem and have original contribution.
@@ -160,10 +170,10 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Each group must turn in an 8-page final report and your code via email **on or before 11:59PM EST on April 21.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 ## Grading
-|                         | Weight | Description | 
-| ------------------------| ------:| ----------- |
-| Paper Summary           | 20%    | Written summaries of 2 papers per week.
-| Paper Presentation      | 20%    | At least one paper presentation.
-| Participation           | 10%    | Preparation and participation in classroom discussions.
-| Project                 | 50%    | Substantial research project with a final paper and poster presentation.
+|                         | Weight | 
+| ------------------------| ------:| 
+| Paper Summary           | 20%    | 
+| Paper Presentation      | 20%    | 
+| Participation           | 10%    | 
+| Project                 | 50%    | 
 
