@@ -47,7 +47,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | --------| -------------------------------| ---------
 | Jan 10  | **Introduction** | [Mosharaf](Slides/011020-MChowdhury.pptx)
 |         | **Background**
-| Jan 13  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | Mosharaf
+| Jan 13  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | [Mosharaf](Slides/011320-MC-DCComputer-DCN.pptx)
 |         | [VL2: A Scalable and Flexible Data Center Network](http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf)
 | Jan 15  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) 
 |         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
