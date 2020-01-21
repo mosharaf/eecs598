@@ -43,8 +43,8 @@ We will read recent papers from top venues to understand trends in big data syst
 
 ## Tentative Schedule and Reading List
 
-| Date    | Readings                       | Presenter
-| --------| -------------------------------| ---------
+| Date    | Readings                       | Presenter | Summary
+| --------| -------------------------------| --------- | -------
 | Jan 10  | **Introduction** | [Mosharaf](Slides/011020-MChowdhury.pptx)
 |         | **Background**
 | Jan 13  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | [Mosharaf](Slides/011320-MC-DCComputer-DCN.pptx)
@@ -52,52 +52,50 @@ We will read recent papers from top venues to understand trends in big data syst
 | Jan 15  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | [Mosharaf](Slides/011520-MC-Spark-FDS.pptx)
 |         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
 |         | **Frameworks**
-| Jan 22  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Hengjia-Jiaqing-Yide
+| Jan 22  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Hengjia-Jiaqing-Yide | Jiho-Matthew-Zineb
 |         | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](http://web.eecs.umich.edu/~mosharaf/Readings/PyTorch.pdf)
-| Jan 27  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf)
+| Jan 27  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | Hengjia-Jiaqing-Yide | Lan-Yanlin
 |         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
 |         | **Distributed and Federated Learning**
-| Jan 29  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf)
+| Jan 29  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | Jiho-Matthew-Zineb | Runyu-Shangquan
 |         | [STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/STRADS.pdf)
-| Feb 3   | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf)
+| Feb 3   | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | Alexandra-Supapitch | Adam-Mihir-Wenyi
 |         | [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](http://web.eecs.umich.edu/~mosharaf/Readings/Tofu.pdf)
-| Feb 10  | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf)
+| Feb 10  | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf) | Chris-Jiachen-Xiangfeng | Lan-Yanlin
 |         | [Scaling Video Analytics on Constrained Edge Nodes](http://web.eecs.umich.edu/~mosharaf/Readings/FilterForward.pdf)
 |         | **Runtime and Compiler Optimizations**
-| Feb 12  | [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf)
+| Feb 12  | [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf) | Runyu-Shangquan | Diego
 |         | [TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions](http://web.eecs.umich.edu/~mosharaf/Readings/TASO.pdf)
-| Feb 17  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf)
+| Feb 17  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | Jingyuan-Yuze | Hengjia-Jiaqing-Yide
 |         | [An Intermediate Representation for Optimizing Machine Learning Pipelines](http://web.eecs.umich.edu/~mosharaf/Readings/IR-Pipeline.pdf)
 |         | **Serving Systems and Inference**
-| Feb 19  | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf)
+| Feb 19  | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) | Chris-Jiachen-Xiangfeng | Alexandra-Supapitch
 |         | [Parity Models: Erasure-Coded Resilience for Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/ParM.pdf)
-| Feb 24  | [GRNN: Low-Latency and Scalable RNN Inference on GPUs](http://web.eecs.umich.edu/~mosharaf/Readings/GRNN.pdf)
+| Feb 26  | [GRNN: Low-Latency and Scalable RNN Inference on GPUs](http://web.eecs.umich.edu/~mosharaf/Readings/GRNN.pdf) | Adam-Mihir-Wenyi | Jiho-Matthew-Zineb
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
-|         | **Hyperparameter Tuning**
-| Feb 26  | [Google Vizier: A Service for Black-Box Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/Vizier.pdf)
-|         | [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/HyperBand.pdf)
 | Mar 9   | **Mid-Semester Presentations**
 | Mar 11  | **Mid-Semester Presentations**
-|         | **Testing, Verification, Security, and Privacy**
-| Mar 16  | [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](http://web.eecs.umich.edu/~mosharaf/Readings/DeepXplore.pdf)
+|         | **Testing and Verification**
+|         | **Hyperparameter Tuning**
+| Mar 16  | [Google Vizier: A Service for Black-Box Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/Vizier.pdf) | Jiho-Matthew-Zineb | Adam-Mihir-Wenyi
+|         | [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/HyperBand.pdf)
+| Mar 18  | [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](http://web.eecs.umich.edu/~mosharaf/Readings/DeepXplore.pdf) | Jingyuan-Yuze | Chris-Jiachen-Xiangfeng
 |         | [DeepBase: Deep Inspection of Neural Networks](http://web.eecs.umich.edu/~mosharaf/Readings/DeepBase.pdf)
-| Mar 18  | [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](http://web.eecs.umich.edu/~mosharaf/Readings/Sage.pdf)
-|         | [SecureML: A System for Scalable Privacy-Preserving Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/SecureML.pdf)
 |         | **ML Systems in Practice**
-| Mar 23  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf)
+| Mar 23  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf) | Lan-Yanlin | Alexandra-Supapitch
 |         | [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://web.eecs.umich.edu/~mosharaf/Readings/TFX.pdf)
-| Mar 25  | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf)
+| Mar 25  | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf) | Runyu-Shangquan | Hengjia-Jiaqing-Yide
 |         | [Machine Learning at Facebook: Understanding Inference at the Edge](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML-Edge.pdf)
 |         | **Scheduling and Resource Management**
-| Mar 30  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf)
+| Mar 30  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Alexandra-Supapitch | Chris-Jiachen-Xiangfeng
 |         | [Gandiva: Introspective Cluster Scheduling for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Gandiva.pdf)
-| Apr 1   | [Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Salus.pdf)
+| Apr 1   | [Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Salus.pdf) | Lan-Yanlin | Jingyuan-Yuze
 |         | [SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks](http://web.eecs.umich.edu/~mosharaf/Readings/SuperNeurons.pdf)
 |         | **Emerging Hardware**
-| Apr 6   | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf)
+| Apr 6   | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | Adam-Mihir-Wenyi | Runyu-Shangquan
 |         | [Serving DNNs in Real Time at Datacenter Scale with Project Brainwave](http://web.eecs.umich.edu/~mosharaf/Readings/Brainwave.pdf)
 |         | **ML for Systems**
-| Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf)
+| Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf) | Diego | Jingyuan-Yuze
 |         | [Learning Scheduling Algorithms for Data Processing Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Decima.pdfwenb)
 | Apr 13  | **Wrap Up** | Mosharaf
 | Apr 15  | **Final Presentations** |
