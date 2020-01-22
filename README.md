@@ -50,7 +50,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Jan 13  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | [Mosharaf](Slides/011320-MC-DCComputer-DCN.pptx)
 |         | [VL2: A Scalable and Flexible Data Center Network](http://web.eecs.umich.edu/~mosharaf/Readings/VL2.pdf)
 | Jan 15  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | [Mosharaf](Slides/011520-MC-Spark-FDS.pptx)
-|         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
+|         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf) |  | [Xiangfeng](Summaries/011520-FDS.pdf)
 |         | **Frameworks**
 | Jan 22  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Hengjia-Jiaqing-Yide | Jiho-Matthew-Zineb
 |         | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](http://web.eecs.umich.edu/~mosharaf/Readings/PyTorch.pdf)
