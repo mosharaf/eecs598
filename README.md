@@ -52,7 +52,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Jan 15  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | [Mosharaf](Slides/011520-MC-Spark-FDS.pptx)
 |         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf) |  | [Xiangfeng](Summaries/011520-FDS.pdf)
 |         | **Frameworks**
-| Jan 22  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Hengjia-Jiaqing-Yide | Jiho-Matthew-Zineb
+| Jan 22  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | [Hengjia-Jiaqing-Yide](Slides/012220-TensorFlow-Pytorch.pptx) | Jiho-Matthew-Zineb
 |         | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](http://web.eecs.umich.edu/~mosharaf/Readings/PyTorch.pdf)
 | Jan 27  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | Hengjia-Jiaqing-Yide | Diego
 |         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
