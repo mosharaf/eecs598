@@ -54,7 +54,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Frameworks**
 | Jan 22  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | [Hengjia-Jiaqing-Yide](Slides/012220-TensorFlow-Pytorch.pptx) | [Jiho-Matthew-Zineb](Summaries/012220-TensorFlow-Pytorch.pdf)
 |         | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](http://web.eecs.umich.edu/~mosharaf/Readings/PyTorch.pdf)
-| Jan 27  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | [Hengjia-Jiaqing-Yide](Slides/012720-Ray-DCF.pptx) | Diego
+| Jan 27  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | [Hengjia-Jiaqing-Yide](Slides/012720-Ray-DCF.pptx) | [Diego](Summaries/012720-Ray-DCF.pdf)
 |         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
 |         | **Distributed and Federated Learning**
 | Jan 29  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | [Jiho-Matthew-Zineb](Slides/012920-ParameterServer-STRADS.pptx) | Runyu-Shangquan
