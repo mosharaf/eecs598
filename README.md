@@ -59,7 +59,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Distributed and Federated Learning**
 | Jan 29  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | [Jiho-Matthew-Zineb](Slides/012920-ParameterServer-STRADS.pptx) | [Runyu-Shangquan](Summaries/012920-ParameterServer-STRADS.pdf)
 |         | [STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/STRADS.pdf)
-| Feb 3   | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | [Alexandra-Wenyi](Slides/020320-PipeDream-Tofu.pptx) | Adam-Mihir
+| Feb 3   | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | [Alexandra-Wenyi](Slides/020320-PipeDream-Tofu.pptx) | [Adam-Mihir](Summaries/020320-PipeDream-Tofu.pdf)
 |         | [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](http://web.eecs.umich.edu/~mosharaf/Readings/Tofu.pdf)
 | Feb 10  | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf) | Chris-Jiachen-Xiangfeng | Chris-Jiachen-Xiangfeng	
 |         | [Scaling Video Analytics on Constrained Edge Nodes](http://web.eecs.umich.edu/~mosharaf/Readings/FilterForward.pdf)
