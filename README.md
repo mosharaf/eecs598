@@ -98,7 +98,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf) |  | Jingyuan-Yuze
 |         | [Learning Scheduling Algorithms for Data Processing Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Decima.pdfwenb)
 | Apr 13  | **Wrap Up** | Mosharaf
-| Apr 15  | **Final Presentations** |
+| Apr 15  | **Final Presentations <br \>3-5 PM @ Tishman Hall** |
 
 ## Policies
 
