@@ -64,7 +64,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb 10  | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf) | [Chris-Jiachen-Xiangfeng](Slides/021020-TFF-FilterForward.pptx) | [Chris-Jiachen-Xiangfeng](Summaries/021020-TFF-FilterForward.pdf)	
 |         | [Scaling Video Analytics on Constrained Edge Nodes](http://web.eecs.umich.edu/~mosharaf/Readings/FilterForward.pdf)
 |         | **Runtime and Compiler Optimizations**
-| Feb 12  | [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf) | Runyu-Shangquan | 
+| Feb 12  | [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf) | [Runyu-Shangquan](Slides/021220-Janus-TASO.pptx) | [Runyu-Shangquan](Summaries/021220-Janus-TASO.pdf)
 |         | [TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions](http://web.eecs.umich.edu/~mosharaf/Readings/TASO.pdf)
 | Feb 17  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | Jingyuan-Yuze | Hengjia-Jiaqing
 |         | [An Intermediate Representation for Optimizing Machine Learning Pipelines](http://web.eecs.umich.edu/~mosharaf/Readings/IR-Pipeline.pdf)
