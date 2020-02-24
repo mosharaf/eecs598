@@ -69,7 +69,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb 17  | [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TVM.pdf) | [Jingyuan-Yuze](Slides/021720-TVM-Lara.pptx) | [Hengjia-Jiaqing](Summaries/021720-TVM-Lara.pdf)
 |         | [An Intermediate Representation for Optimizing Machine Learning Pipelines](http://web.eecs.umich.edu/~mosharaf/Readings/IR-Pipeline.pdf)
 |         | **Serving Systems and Inference**
-| Feb 19  | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) | [Chris-Jiachen-Xiangfeng](Slides/021920-Pretzel-ParityModel.pptx) | Alexandra-Wenyi
+| Feb 19  | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) | [Chris-Jiachen-Xiangfeng](Slides/021920-Pretzel-ParityModel.pptx) | [Alexandra-Wenyi](Summaries/021920-Pretzel-ParityModel.pdf)
 |         | [Parity Models: Erasure-Coded Resilience for Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/ParM.pdf)
 | Feb 24  | [GRNN: Low-Latency and Scalable RNN Inference on GPUs](http://web.eecs.umich.edu/~mosharaf/Readings/GRNN.pdf) | Adam-Mihir | Jiho-Matthew-Zineb
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
