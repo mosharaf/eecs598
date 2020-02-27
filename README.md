@@ -71,7 +71,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Serving Systems and Inference**
 | Feb 19  | [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/Pretzel.pdf) | [Chris-Jiachen-Xiangfeng](Slides/021920-Pretzel-ParityModel.pptx) | [Alexandra-Wenyi](Summaries/021920-Pretzel-ParityModel.pdf)
 |         | [Parity Models: Erasure-Coded Resilience for Prediction Serving Systems](http://web.eecs.umich.edu/~mosharaf/Readings/ParM.pdf)
-| Feb 24  | [GRNN: Low-Latency and Scalable RNN Inference on GPUs](http://web.eecs.umich.edu/~mosharaf/Readings/GRNN.pdf) | Adam-Mihir | Jiho-Matthew-Zineb
+| Feb 24  | [GRNN: Low-Latency and Scalable RNN Inference on GPUs](http://web.eecs.umich.edu/~mosharaf/Readings/GRNN.pdf) | [Adam-Mihir](Slides/022420-GRNN-Nexus.pptx) | [Jiho-Matthew-Zineb](Summaries/022420-GRNN-Nexus.pdf)
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
 | Mar 9   | **Mid-Semester Presentations**
 | Mar 11  | **Mid-Semester Presentations**
@@ -98,7 +98,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf) | Xiangfeng | Jingyuan-Yuze
 |         | [Learning Scheduling Algorithms for Data Processing Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Decima.pdfwenb)
 | Apr 13  | **Wrap Up** | Mosharaf
-| Apr 15  | **Final Presentations <br \>3-5 PM @ Tishman Hall** |
+| Apr 15  | **Final Presentations <br /> 3-5 PM @ Tishman Hall** |
 
 ## Policies
 
