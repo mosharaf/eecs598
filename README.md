@@ -76,7 +76,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 9   | **Mid-Semester Presentations**
 | Mar 11  | **Mid-Semester Presentations**
 |         | **Hyperparameter Tuning**
-| Mar 16  | [Google Vizier: A Service for Black-Box Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/Vizier.pdf) | [Jiho-Matthew-Zineb](Slides/031620-Vizier-Hyperband.pdf) | Adam-Mihir
+| Mar 16  | [Google Vizier: A Service for Black-Box Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/Vizier.pdf) | [Jiho-Matthew-Zineb](Slides/031620-Vizier-Hyperband.pdf) | [Adam-Mihir](Summaries/031620-Vizier-Hyperband.pdf)
 |         | [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/HyperBand.pdf)
 |         | **Testing and Verification**
 | Mar 20  | [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](http://web.eecs.umich.edu/~mosharaf/Readings/DeepXplore.pdf) | Jingyuan-Yuze | Chris-Jiachen-Xiangfeng
