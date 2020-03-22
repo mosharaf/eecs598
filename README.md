@@ -79,7 +79,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 16  | [Google Vizier: A Service for Black-Box Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/Vizier.pdf) | [Jiho-Matthew-Zineb](Slides/031620-Vizier-Hyperband.pdf) | [Adam-Mihir](Summaries/031620-Vizier-Hyperband.pdf)
 |         | [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](http://web.eecs.umich.edu/~mosharaf/Readings/HyperBand.pdf)
 |         | **Testing and Verification**
-| Mar 20  | [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](http://web.eecs.umich.edu/~mosharaf/Readings/DeepXplore.pdf) | Jingyuan-Yuze | Chris-Jiachen-Xiangfeng
+| Mar 20  | [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](http://web.eecs.umich.edu/~mosharaf/Readings/DeepXplore.pdf) | [Jingyuan-Yuze](Slides/032020-DeepXplore-DeepBase.pptx) | [Chris-Jiachen-Xiangfeng](Summaries/032020-DeepXplore-DeepBase.pdf)
 |         | [DeepBase: Deep Inspection of Neural Networks](http://web.eecs.umich.edu/~mosharaf/Readings/DeepBase.pdf)
 |         | **ML Systems in Practice**
 | Mar 23  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf) | Alexandra-Wenyi | Alexandra-Wenyi
