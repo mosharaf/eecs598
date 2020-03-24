@@ -82,7 +82,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 20  | [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](http://web.eecs.umich.edu/~mosharaf/Readings/DeepXplore.pdf) | [Jingyuan-Yuze](Slides/032020-DeepXplore-DeepBase.pptx) | [Chris-Jiachen-Xiangfeng](Summaries/032020-DeepXplore-DeepBase.pdf)
 |         | [DeepBase: Deep Inspection of Neural Networks](http://web.eecs.umich.edu/~mosharaf/Readings/DeepBase.pdf)
 |         | **ML Systems in Practice**
-| Mar 23  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf) | Alexandra-Wenyi | Alexandra-Wenyi
+| Mar 23  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf) | [Alexandra-Wenyi](Slides/032320-Philly-TFX.pptx) | [Alexandra-Wenyi](Summaries/032320-Philly-TFX.pdf)
 |         | [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://web.eecs.umich.edu/~mosharaf/Readings/TFX.pdf)
 | Mar 25  | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf) | Runyu-Shangquan | Hengjia-Jiaqing
 |         | [Machine Learning at Facebook: Understanding Inference at the Edge](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML-Edge.pdf)
