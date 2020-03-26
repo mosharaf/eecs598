@@ -84,7 +84,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **ML Systems in Practice**
 | Mar 23  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf) | [Alexandra-Wenyi](Slides/032320-Philly-TFX.pptx) | [Alexandra-Wenyi](Summaries/032320-Philly-TFX.pdf)
 |         | [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://web.eecs.umich.edu/~mosharaf/Readings/TFX.pdf)
-| Mar 25  | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf) | Runyu-Shangquan | Hengjia-Jiaqing
+| Mar 25  | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf) | [Runyu-Shangquan](Slides/032520-FB-ML.pptx) | [Hengjia-Jiaqing](Summaries/032520-FB-ML.pdf)
 |         | [Machine Learning at Facebook: Understanding Inference at the Edge](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML-Edge.pdf)
 |         | **Scheduling and Resource Management**
 | Mar 30  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Juncheng (Guest Lecture) | Chris-Jiachen-Xiangfeng
