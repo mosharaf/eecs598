@@ -163,7 +163,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Turn in a 2-page draft proposal (including references) by **January 31**. Remember to include the names and Michigan email addresses of the group members. Schedule a 15-minute meeting to pitch your idea and to get early feedback.
 * Keep revising your initial idea and incorporate instructor feedback. However, your project proposal must be finalized and approved on or before **February 14**.
 * Each group must present mid-semester progress during class hours on **March 9 and March 11**.
-* Each group must turn in an 8-page final report and your code via email **on or before 11:59PM EST on April 21.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
+* Each group must turn in an 8-page final report and your code via email **on or before 11:59PM EST on April 27.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 ## Grading
 |                         | Weight | 
