@@ -89,7 +89,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Scheduling and Resource Management**
 | Mar 30  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | [Juncheng Gu](Slides/033020-Tiresias-Gandiva.pptx) (Guest Lecture) | [Chris-Jiachen-Xiangfeng](Summaries/033020-Tiresias-Gandiva.pdf)
 |         | [Gandiva: Introspective Cluster Scheduling for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Gandiva.pdf)
-| Apr 1   | [Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Salus.pdf) | Peifeng Yu (Guest Lecture) | Jingyuan-Yuze
+| Apr 1   | [Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Salus.pdf) | [Peifeng Yu](Slides/040120-Salus-SuperNeurons.pptx) (Guest Lecture) | [Jingyuan-Yuze](Summaries/040120-Salus-SuperNeurons.pdf)
 |         | [SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks](http://web.eecs.umich.edu/~mosharaf/Readings/SuperNeurons.pdf)
 |         | **Emerging Hardware**
 | Apr 6   | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | Adam-Mihir | Runyu-Shangquan
