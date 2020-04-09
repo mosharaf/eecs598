@@ -95,7 +95,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Apr 6   | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | [Adam-Mihir](Slides/040620-TPU-Brainwave.pptx) | [Runyu-Shangquan](Summaries/040620-TPU-Brainwave.pdf)
 |         | [Serving DNNs in Real Time at Datacenter Scale with Project Brainwave](http://web.eecs.umich.edu/~mosharaf/Readings/Brainwave.pdf)
 |         | **ML for Systems**
-| Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf) | Xiangfeng | Jingyuan-Yuze
+| Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf) | [Xiangfeng](Slides/040820-NeuroCuts-Decima.pptx) | [Jingyuan-Yuze](Summaries/040820-NeuroCuts-Decima.pdf)
 |         | [Learning Scheduling Algorithms for Data Processing Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Decima.pdfwenb)
 | Apr 13  | **Wrap Up** | Mosharaf
 
