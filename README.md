@@ -97,7 +97,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **ML for Systems**
 | Apr 8   | [Neural Packet Classification](http://web.eecs.umich.edu/~mosharaf/Readings/NeuroCuts.pdf) | [Xiangfeng](Slides/040820-NeuroCuts-Decima.pptx) | [Jingyuan-Yuze](Summaries/040820-NeuroCuts-Decima.pdf)
 |         | [Learning Scheduling Algorithms for Data Processing Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/Decima.pdfwenb)
-| Apr 13  | **Wrap Up** | Mosharaf
+| Apr 13  | **Wrap Up** | [Mosharaf](Slides/041320-FinalReview.pptx)
 
 ## Policies
 
