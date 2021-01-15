@@ -61,7 +61,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb  3  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf)
 |         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
 | Feb  8  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf)
-|         | [Ownership: A Distributed Futures System for Fine-Grained Dynamic Tasks](http://web.eecs.umich.edu/~mosharaf/Readings/Ownership.pdf)
+|         | [Lineage Stash: Fault Tolerance Off the Critical Path](http://web.eecs.umich.edu/~mosharaf/Readings/LineageStash.pdf)
 |         | **Distributed and Federated Learning**
 | Feb 10  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf)
@@ -170,5 +170,6 @@ You must meet the following milestones (unless otherwise specified in future ann
 | Paper Summary           | 20%    | 
 | Paper Presentation      | 20%    | 
 | Participation           | 10%    | 
-| Project                 | 50%    | 
+| Assignment              | 10%    | 
+| Project                 | 40%    | 
 
