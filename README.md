@@ -11,7 +11,7 @@
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4820 BBB. **By appointments only.**
-| Sanjay Singapuram (singam) | GSI | TBA
+| Sanjay Singapuram (singam) | GSI | 11 AM - 12 PM every Thu
 
 ### Piazza
 **ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/winter2021/eecs598009w21/).
