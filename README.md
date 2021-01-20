@@ -48,7 +48,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Date    | Readings                       | Presenter | Summary
 | --------| -------------------------------| --------- | -------
 |         | **Introduction** |
-| Jan 20  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf) | Mosharaf
+| Jan 20  | [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](http://web.eecs.umich.edu/~mosharaf/Readings/Fiddle-Philly.pdf) | [Mosharaf](Slides/012021-MChowdhury.pptx)
 |         | [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://web.eecs.umich.edu/~mosharaf/Readings/TFX.pdf)
 |         | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf)
 |         | [Machine Learning at Facebook: Understanding Inference at the Edge](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML-Edge.pdf)
