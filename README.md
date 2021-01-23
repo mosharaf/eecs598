@@ -103,6 +103,13 @@ We will read recent papers from top venues to understand trends in big data syst
 ### Honor Code
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
 
+### Lecture Recordings
+Course lectures will be audio/video recorded and made available to other students in this course. 
+As part of your participation in this course, you may be recorded. 
+
+Students may not record or distribute any class activity without written permission from the instructor, except as necessary as part of approved accommodations for students with disabilities. 
+Any approved recordings may only be used for the student's own private use.
+
 ### Groups
 All activities of this course will be performed in **groups of 2-3 students**.
 
@@ -111,7 +118,7 @@ After this date, we will form groups from the remaining students.
 
 ### Paper Presentation
 The course will be conducted as a seminar. 
-Only one group will present in each class.
+Only one group will synchronously present in each class.
 Each group will be assigned to present a paper at least once throughout the semester. 
 Presentations should last **at most 40 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
@@ -147,7 +154,8 @@ Everyone is expected to have read all the papers.
 Being able to critically judge others' work is crucial for your understanding. 
 
 ### Participation
-You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
+You are expected to attend **all** lectures (you may skip up to 4 lectures due to legitimate reasons), and more importantly, participate in class discussions.
+Although the lectures will be recorded, given the discussion-based nature of this course, participation is required both for your own understanding and to improve the overall quality of the course.
 
 A key part of participation will be in the form of discussion in piazza.
 The group in charge of the summary should initiate the discussion and the rest should participate.
