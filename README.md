@@ -53,7 +53,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML.pdf)
 |         | [Machine Learning at Facebook: Understanding Inference at the Edge](http://web.eecs.umich.edu/~mosharaf/Readings/FB-ML-Edge.pdf)
 |         | **Background**
-| Jan 25  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | Mosharaf
+| Jan 25  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | Mosharaf | [Tianyi-Lingyun-Haojie](Summaries/012521-DCaaC-Jupiter.pdf)
 |         | [Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google's Datacenter Network](http://web.eecs.umich.edu/~mosharaf/Readings/Jupiter.pdf)
 | Feb  1  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Mosharaf
 |         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
