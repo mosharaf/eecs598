@@ -60,17 +60,17 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Frameworks**
 | Feb  3  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Abzaliev-Saisamrit
 |         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
-| Feb  8  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | Joshua-Shuncheng-Han
+| Feb  8  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | Joshua-Shuncheng-Han | Yiran-Jonah
 |         | [Lineage Stash: Fault Tolerance Off the Critical Path](http://web.eecs.umich.edu/~mosharaf/Readings/LineageStash.pdf)
 |         | **Distributed and Federated Learning**
 | Feb 10  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | Christopher-Joe-Roland | Jie-Yin-Jinyang
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) 
-| Feb 15  | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) |  | Abzaliev-Saisamrit
+| Feb 15  | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | Yabin-Haofeng | Abzaliev-Saisamrit
 |         | [A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/BytePS.pdf)
 | Feb 17  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Jie-Yin-Jinyang | Christopher-Joe-Roland
 |         | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf)
 |         | **Runtime and Compiler Optimizations**
-| Feb 22  | [Ansor: Generating High-Performance Tensor Programs for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Ansor.pdf)
+| Feb 22  | [Ansor: Generating High-Performance Tensor Programs for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Ansor.pdf) |  | Yabin-Haofeng
 |         | [TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions](http://web.eecs.umich.edu/~mosharaf/Readings/TASO.pdf)
 | Mar  1  | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](http://web.eecs.umich.edu/~mosharaf/Readings/Rammer.pdf) |  | Anshul-Drake
 |         | [A Tensor Compiler for Unified Machine Learning Prediction Serving](http://web.eecs.umich.edu/~mosharaf/Readings/Hummingbird.pdf)
@@ -79,7 +79,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Serving Systems and Inference**
 | Mar 15  | [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](http://web.eecs.umich.edu/~mosharaf/Readings/Clockwork.pdf) | Anshul-Drake | Wenyuan-Ruiyang-Shuowei
 |         | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf)
-| Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) |  | Wenqi-Jianbin-Shi
+| Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | Yiran-Jonah | Wenqi-Jianbin-Shi
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
 |         | **Hyperparameter Tuning**
 | Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) |  | Jiachen-Qinye-Yibo
