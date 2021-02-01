@@ -70,7 +70,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb 17  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Jie-Yin-Jinyang | Christopher-Joe-Roland
 |         | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf)
 |         | **Runtime and Compiler Optimizations**
-| Feb 22  | [Ansor: Generating High-Performance Tensor Programs for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Ansor.pdf) |  | Yabin-Haofeng
+| Feb 22  | [Ansor: Generating High-Performance Tensor Programs for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Ansor.pdf) | Tianyi-Lingyun-Haojie | Yabin-Haofeng
 |         | [TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions](http://web.eecs.umich.edu/~mosharaf/Readings/TASO.pdf)
 | Mar  1  | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](http://web.eecs.umich.edu/~mosharaf/Readings/Rammer.pdf) |  | Anshul-Drake
 |         | [A Tensor Compiler for Unified Machine Learning Prediction Serving](http://web.eecs.umich.edu/~mosharaf/Readings/Hummingbird.pdf)
@@ -84,7 +84,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Hyperparameter Tuning**
 | Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) |  | Jiachen-Qinye-Yibo
 |         | [BOHB: Robust and Efficient Hyperparameter Optimization at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/BOHB.pdf)
-| Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | Jiachen-Qinye-Yibo
+| Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | Jiachen-Qinye-Yibo | Tianyi-Lingyun-Haojie
 |         | [FluidExec: A Generic Resource-Aware Hyperparameter Tuning Execution Engine](http://web.eecs.umich.edu/~mosharaf/Readings/FluidExec.pdf)
 |         | **Scheduling and Resource Management**
 | Mar 29  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Wenyuan-Ruiyang-Shuowei | Joshua-Shuncheng-Han
