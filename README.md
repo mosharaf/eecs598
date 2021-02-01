@@ -82,14 +82,14 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | Yiran-Jonah | Wenqi-Jianbin-Shi
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
 |         | **Hyperparameter Tuning**
-| Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) |  | Jiachen-Qinye-Yibo
+| Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) | Muhammed | Jiachen-Qinye-Yibo
 |         | [BOHB: Robust and Efficient Hyperparameter Optimization at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/BOHB.pdf)
 | Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | Jiachen-Qinye-Yibo | Tianyi-Lingyun-Haojie
 |         | [FluidExec: A Generic Resource-Aware Hyperparameter Tuning Execution Engine](http://web.eecs.umich.edu/~mosharaf/Readings/FluidExec.pdf)
 |         | **Scheduling and Resource Management**
 | Mar 29  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Wenyuan-Ruiyang-Shuowei | Joshua-Shucheng-Han
 |         | [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/HiveD.pdf)
-| Mar 31  | [AntMan: Dynamic Scaling on GPU Clusters for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/AntMan.pdf) | Wenqi-Jianbin-Shi
+| Mar 31  | [AntMan: Dynamic Scaling on GPU Clusters for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/AntMan.pdf) | Wenqi-Jianbin-Shi | Muhammed
 |         | [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/PipeSwitch.pdf)
 |         | **Emerging Hardware**
 | Apr  5  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) |  | Qiyue-Tianrong
