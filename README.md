@@ -60,7 +60,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Frameworks**
 | Feb  3  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Abzaliev-Saisamrit
 |         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
-| Feb  8  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | Joshua-Shucheng-Han | Yiran-Jonah
+| Feb  8  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | Joshua-Shucheng-Han | Yiran-Jonah-WeiChung
 |         | [Lineage Stash: Fault Tolerance Off the Critical Path](http://web.eecs.umich.edu/~mosharaf/Readings/LineageStash.pdf)
 |         | **Distributed and Federated Learning**
 | Feb 10  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | Christopher-Joe-Roland | Jie-Yin-Jinyang
@@ -79,7 +79,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Serving Systems and Inference**
 | Mar 15  | [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](http://web.eecs.umich.edu/~mosharaf/Readings/Clockwork.pdf) | Anshul-Drake | Wenyuan-Ruiyang-Shuowei
 |         | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf)
-| Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | Yiran-Jonah | Wenqi-Jianbin-Shi
+| Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | Yiran-Jonah-WeiChung | Wenqi-Jianbin-Shi
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
 |         | **Hyperparameter Tuning**
 | Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) | Muhammed | Jiachen-Qinye-Yibo
