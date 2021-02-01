@@ -55,7 +55,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Background**
 | Jan 25  | [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2) | [Mosharaf](Slides/012521-MC-DCComputer-DCN.pptx) | [Tianyi-Lingyun-Haojie](Summaries/012521-DCaaC-Jupiter.pdf)
 |         | [Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google's Datacenter Network](http://web.eecs.umich.edu/~mosharaf/Readings/Jupiter.pdf)
-| Feb  1  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | Mosharaf
+| Feb  1  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | [Mosharaf](Slides/020121-MC-Spark-FDS.pptx)
 |         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
 |         | **Frameworks**
 | Feb  3  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Abzaliev-Saisamrit
