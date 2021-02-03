@@ -58,7 +58,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb  1  | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://web.eecs.umich.edu/~mosharaf/Readings/Spark.pdf) | [Mosharaf](Slides/020121-MC-Spark-FDS.pptx)
 |         | [Flat Datacenter Storage](http://web.eecs.umich.edu/~mosharaf/Readings/FDS.pdf)
 |         | **Frameworks**
-| Feb  3  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | Abzaliev-Saisamrit
+| Feb  3  | [TensorFlow: A System for Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/TensorFlow.pdf) | [Abzaliev-Saisamrit](Slides/020321-TF-DCFLML.pdf)
 |         | [Dynamic Control Flow in Large-Scale Machine Learning](http://web.eecs.umich.edu/~mosharaf/Readings/DynamicControlFlow-TF.pdf)
 | Feb  8  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | Joshua-Shucheng-Han | Yiran-Jonah-WeiChung
 |         | [Lineage Stash: Fault Tolerance Off the Critical Path](http://web.eecs.umich.edu/~mosharaf/Readings/LineageStash.pdf)
