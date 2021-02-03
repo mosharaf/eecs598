@@ -12,7 +12,7 @@ hardware accelerators such as GPUs \[[1](#bibliography)\]. It helps define a neu
 the ability to place the operations across machines and across multiple computational within a machine.
 
 Use the `pytorch-cluster` profile under `Michigan-BigData` project to start your experiment,
-and follow the CloudLab usage policies mentioned in [Starting with Cloudlab](../Starting\ with\ Cloudlab/README.md).
+and follow the CloudLab usage policies mentioned in [Starting with Cloudlab](Starting\ with\ Cloudlab/README.md).
 
 In this assignment, you will be given a machine learning workload written in PyTorch.
 You will setup a 3-node cluster. After filling in the necessary code in the starter file, run workloads on a single machine first. 
