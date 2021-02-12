@@ -63,7 +63,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb  8  | [Ray: A Distributed Framework for Emerging AI Applications](http://web.eecs.umich.edu/~mosharaf/Readings/Ray.pdf) | [Joshua-Shucheng-Han](Slides/020821-Ray-Stash.pdf) | [Yiran-Jonah-WeiChung](Summaries/020821-Ray-Stash.pdf)
 |         | [Lineage Stash: Fault Tolerance Off the Critical Path](http://web.eecs.umich.edu/~mosharaf/Readings/LineageStash.pdf)
 |         | **Distributed and Federated Learning**
-| Feb 10  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | [Christopher-Joe-Roland](Slides/021021-ParamServ-Adam.pdf) | Jie-Yin-Jinyang
+| Feb 10  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | [Christopher-Joe-Roland](Slides/021021-ParamServ-Adam.pdf) | [Jie-Yin-Jinyang](Summaries/021021-ParamServer-Adam.pdf)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) 
 | Feb 15  | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | Yabin-Haofeng-Hanchi | Abzaliev-Saisamrit
 |         | [A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/BytePS.pdf)
