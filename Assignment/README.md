@@ -51,6 +51,7 @@ Once the machines according to the `pytorch-cluster` profile are setup, follow t
 
 ```bash
 wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+bash Anaconda3-2020.11-Linux-x86_64.sh # You could use other shells too
 ./anaconda3/bin/conda init bash # Or your favorite shell
 ./anaconda3/bin/conda create -n pytorch_env pytorch torchvision torchaudio -c pytorch
 ./anaconda3/bin/conda activate pytorch_env
