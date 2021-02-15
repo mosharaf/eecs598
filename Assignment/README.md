@@ -53,7 +53,7 @@ Once the machines according to the `pytorch-cluster` profile are setup, follow t
 wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
 ./anaconda3/bin/conda init bash # Or your favorite shell
 ./anaconda3/bin/conda create -n pytorch_env pytorch torchvision torchaudio -c pytorch
-./anaconda3/bin/conda activate pytorch
+./anaconda3/bin/conda activate pytorch_env
 ./anaconda3/bin/conda install -c conda-forge tensorboard
 ```
 
