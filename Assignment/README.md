@@ -64,7 +64,7 @@ Restart the shell (`bash` in this case) to use `conda` instead of `./anaconda3/b
 
 In this task, you will be completing the definition of the training loop to run a 6-layer neural network on a single machine.
 The starter python file is available at `/proj/michigan-bigdata-PG0/assignments/p0.py`.
-Once you have written the code for training loop, start the workload using,
+Once you have completed the code headlined by the comment "Task 1", start the workload using,
 ```
 python p0.py
 ```
