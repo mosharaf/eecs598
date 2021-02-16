@@ -65,7 +65,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Distributed and Federated Learning**
 | Feb 10  | [Scaling Distributed Machine Learning with the Parameter Server](http://web.eecs.umich.edu/~mosharaf/Readings/ParameterServer.pdf) | [Christopher-Joe-Roland](Slides/021021-ParamServ-Adam.pdf) | [Jie-Yin-Jinyang](Summaries/021021-ParamServer-Adam.pdf)
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) 
-| Feb 15  | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | [Yabin-Haofeng-Hanchi](Slides/021521-Pipedream-BytePS.pdf) | Abzaliev-Saisamrit
+| Feb 15  | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | [Yabin-Haofeng-Hanchi](Slides/021521-Pipedream-BytePS.pdf) | [Abzaliev-Saisamrit](Summaries/021521-Pipedream-BytePS.pdf)
 |         | [A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/BytePS.pdf)
 | Feb 17  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Jie-Yin-Jinyang | Christopher-Joe-Roland
 |         | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf)
