@@ -3,7 +3,7 @@
 ### *Gain a hands-on understanding of PyTorch on CloudLab*
 ##
 
-### Due: Feb 28, 2021, 11:59 PM
+### Due: Mar 7, 2021, 11:59 PM
 
 ## Overview
 [PyTorch](https://pytorch.org/) is an open source machine learning library. It provides an imperative and Pythonic programming style that supports code as a model,
