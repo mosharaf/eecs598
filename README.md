@@ -67,7 +67,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | [Project Adam: Building an Efficient and Scalable Deep Learning Training System](http://web.eecs.umich.edu/~mosharaf/Readings/Project-Adam.pdf) 
 | Feb 15  | [PipeDream: Generalized Pipeline Parallelism for DNN Training](http://web.eecs.umich.edu/~mosharaf/Readings/PipeDream.pdf) | [Yabin-Haofeng-Hanchi](Slides/021521-Pipedream-BytePS.pdf) | [Abzaliev-Saisamrit](Summaries/021521-Pipedream-BytePS.pdf)
 |         | [A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](http://web.eecs.umich.edu/~mosharaf/Readings/BytePS.pdf)
-| Feb 17  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | Jie-Yin-Jinyang | Christopher-Joe-Roland
+| Feb 17  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | [Jie-Yin-Jinyang](Slides/021721-Gaia-TFF.pdf) | Christopher-Joe-Roland
 |         | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf)
 |         | **Runtime and Compiler Optimizations**
 | Feb 22  | [Ansor: Generating High-Performance Tensor Programs for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Ansor.pdf) | Tianyi-Lingyun-Haojie | Yabin-Haofeng-Hanchi
