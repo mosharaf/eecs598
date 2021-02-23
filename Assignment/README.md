@@ -96,7 +96,7 @@ user@nodei: $ python p0.py -n 3 -np 1 -nr i
 Answer the following questions after you finish implementing the distributed version.
 
 **Question 6.** Run the distributed model with 1, 2 and 3 worker nodes. 
-Record the completion time of the task on the master node and compare with the result you get in Question 1. Consider what batch size you should set for a fair comparison.
+Record the completion time of the task on the master node and compare with the result you get in Question 2. Consider what batch size you should set for a fair comparison.
 Also plot CPU and memory usage for your master server node. Keep a screenshot of the graphs visulized by TensorBoard for submission.
 
 **Question 7.** Repeat Question 2 using 2 processes per worker. Explain the performance difference between the case with 1 and 2 worker processes. You will need to submit the CPU and memory plots.
