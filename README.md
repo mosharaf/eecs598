@@ -70,7 +70,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Feb 17  | [Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds](http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf) | [Jie-Yin-Jinyang](Slides/021721-Gaia-TFF.pdf) | [Christopher-Joe-Roland](Summaries/021721-Gaia-TFF.pdf)
 |         | [Towards Federated Learning at Scale: System Design](http://web.eecs.umich.edu/~mosharaf/Readings/TFF.pdf)
 |         | **Runtime and Compiler Optimizations**
-| Feb 22  | [Ansor: Generating High-Performance Tensor Programs for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Ansor.pdf) | [Tianyi-Lingyun-Haojie](Slides/022221-TASO-ANSOR.pdf) | Yabin-Haofeng-Hanchi
+| Feb 22  | [Ansor: Generating High-Performance Tensor Programs for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Ansor.pdf) | [Tianyi-Lingyun-Haojie](Slides/022221-TASO-ANSOR.pdf) | [Yabin-Haofeng-Hanchi](Summaries/022221-TASO-ANSOR.pdf)
 |         | [TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions](http://web.eecs.umich.edu/~mosharaf/Readings/TASO.pdf)
 | Mar  1  | [Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks](http://web.eecs.umich.edu/~mosharaf/Readings/Rammer.pdf) | Qiyue-Tianrong | Anshul-Drake
 |         | [A Tensor Compiler for Unified Machine Learning Prediction Serving](http://web.eecs.umich.edu/~mosharaf/Readings/Hummingbird.pdf)
