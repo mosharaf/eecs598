@@ -99,7 +99,7 @@ Answer the following questions after you finish implementing the distributed ver
 Record the completion time of the task on the master node and compare with the result you get in Question 2. Consider what batch size you should set for a fair comparison.
 Also plot CPU and memory usage for your master server node. Keep a screenshot of the graphs visulized by TensorBoard for submission.
 
-**Question 7.** Repeat Question 2 using 2 processes per worker. Explain the performance difference between the case with 1 and 2 worker processes. You will need to submit the CPU and memory plots and the output of the `lscpu` command.
+**Question 7.** Repeat Question 2 using 2 processes per worker. Explain the performance difference between the case with 1 and 2 worker processes. You will need to submit the CPU and memory plots.
 
 **Question 8. (Optional)** Did you find any difference between the convergence rates in the distributed and single machine case?
 If so, can you explain the difference in the rates with respect to the system architecture?
