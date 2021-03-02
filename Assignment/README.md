@@ -79,8 +79,7 @@ Use your favorite software tool to generate one plot for CPU usage and one plot 
 **Question 4.** Benchmark the training process from Question 2 at batch sizes 32 and 256. Explain the results you observe (Hint: cpu usage). For this question, also generate the CPU and memory plots. (Optional) Explain the effect on network convergence.
 
 **Question 5.** [TensorBoard](https://www.tensorflow.org/get_started/graph_viz) is a suite of visulization tools to created to help visualize the training process.
-Originally designed for TensorFlow, it has been [ported to PyTorch](https://pytorch.org/docs/stable/tensorboard.html). Use TensorBoard to visualize the graph created in the training process you just ran.
-The necessary logging has already been included in the code we provide you, so you simply [launch TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard) to view the graph.
+Originally designed for TensorFlow, it has been [ported to PyTorch](https://pytorch.org/docs/stable/tensorboard.html). Use TensorBoard to visualize the training process, you just ran, as a graph. The necessary logging has already been included in the code we provide you, so you simply [launch TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard) to view the graph.
 Keep a screenshot of the graph for submission.
 
 ### Task 2: Distributed PyTorch
