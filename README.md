@@ -77,7 +77,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar  8  | **Mid-Semester Presentations**
 | Mar 10  | **Mid-Semester Presentations**
 |         | **Serving Systems and Inference**
-| Mar 12  | [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](http://web.eecs.umich.edu/~mosharaf/Readings/Clockwork.pdf) | [Anshul-Drake](Slides/031221-Clipper-Clockwork.pdf) | Wenyuan-Ruiyang-Shuowei
+| Mar 12  | [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](http://web.eecs.umich.edu/~mosharaf/Readings/Clockwork.pdf) | [Anshul-Drake](Slides/031221-Clipper-Clockwork.pdf) | [Wenyuan-Ruiyang-Shuowei](Summaries/031221-Clipper-Clockwork.pdf)
 |         | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf)
 | Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | Yiran-Jonah-WeiChung | Wenqi-Jianbin-Shi
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
