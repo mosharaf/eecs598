@@ -85,7 +85,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) | Muhammed | Jiachen-Qinye-Yibo
 |         | [BOHB: Robust and Efficient Hyperparameter Optimization at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/BOHB.pdf)
 | Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | Jiachen-Qinye-Yibo | Tianyi-Lingyun-Haojie
-|         | [FluidExec: A Generic Resource-Aware Hyperparameter Tuning Execution Engine](http://web.eecs.umich.edu/~mosharaf/Readings/FluidExec.pdf)
+|         | [Fluid: Resource-Aware Hyperparameter Tuning Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Fluid.pdf)
 |         | **Scheduling and Resource Management**
 | Mar 29  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Wenyuan-Ruiyang-Shuowei | Joshua-Shucheng-Han
 |         | [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/HiveD.pdf)
