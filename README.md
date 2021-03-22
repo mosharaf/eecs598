@@ -82,7 +82,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | [Yiran-Jonah-WeiChung](Slides/031721-Focus-Nexus.pdf) | Wenqi-Jianbin-Shi
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
 |         | **Hyperparameter Tuning**
-| Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) | Muhammed | Jiachen-Qinye-Yibo
+| Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) | [Muhammed](Slides/032221-BOHB-SHA.pdf) | Jiachen-Qinye-Yibo
 |         | [BOHB: Robust and Efficient Hyperparameter Optimization at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/BOHB.pdf)
 | Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | Jiachen-Qinye-Yibo | Tianyi-Lingyun-Haojie
 |         | [Fluid: Resource-Aware Hyperparameter Tuning Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Fluid.pdf)
