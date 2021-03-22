@@ -79,7 +79,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Serving Systems and Inference**
 | Mar 12  | [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](http://web.eecs.umich.edu/~mosharaf/Readings/Clockwork.pdf) | [Anshul-Drake](Slides/031221-Clipper-Clockwork.pdf) | [Wenyuan-Ruiyang-Shuowei](Summaries/031221-Clipper-Clockwork.pdf)
 |         | [Clipper: A Low-Latency Online Prediction Serving System](http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf)
-| Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | [Yiran-Jonah-WeiChung](Slides/031721-Focus-Nexus.pdf) | Wenqi-Jianbin-Shi
+| Mar 17  | [Focus: Querying Large Video Datasets with Low Latency and Low Cost](http://web.eecs.umich.edu/~mosharaf/Readings/Focus.pdf) | [Yiran-Jonah-WeiChung](Slides/031721-Focus-Nexus.pdf) | [Wenqi-Jianbin-Shi](Summaries/031721-Focus-Nexus.pdf)
 |         | [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](http://web.eecs.umich.edu/~mosharaf/Readings/Nexus.pdf)
 |         | **Hyperparameter Tuning**
 | Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) | [Muhammed](Slides/032221-BOHB-SHA.pdf) | Jiachen-Qinye-Yibo
