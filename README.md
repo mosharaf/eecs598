@@ -84,7 +84,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Hyperparameter Tuning**
 | Mar 22  | [A System for Massively Parallel Hyperparameter Tuning](http://web.eecs.umich.edu/~mosharaf/Readings/ASHA.pdf) | [Muhammed](Slides/032221-BOHB-SHA.pdf) | [Jiachen-Qinye-Yibo](Summaries/032221-BOHB-SHA.pdf)
 |         | [BOHB: Robust and Efficient Hyperparameter Optimization at Scale](http://web.eecs.umich.edu/~mosharaf/Readings/BOHB.pdf)
-| Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | [Jiachen-Qinye-Yibo](Slides/032421-Retiarii-Fluid.pdf) | Tianyi-Lingyun-Haojie
+| Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | [Jiachen-Qinye-Yibo](Slides/032421-Retiarii-Fluid.pdf) | [Tianyi-Lingyun-Haojie](Summaries/032421-Retiarii-Fluid.pdf)
 |         | [Fluid: Resource-Aware Hyperparameter Tuning Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Fluid.pdf)
 |         | **Scheduling and Resource Management**
 | Mar 29  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | Wenyuan-Ruiyang-Shuowei | Joshua-Shucheng-Han
