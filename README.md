@@ -87,7 +87,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 24  | [Retiarii: A Deep Learning Exploratory-Training Framework](http://web.eecs.umich.edu/~mosharaf/Readings/Retiarii.pdf) | [Jiachen-Qinye-Yibo](Slides/032421-Retiarii-Fluid.pdf) | [Tianyi-Lingyun-Haojie](Summaries/032421-Retiarii-Fluid.pdf)
 |         | [Fluid: Resource-Aware Hyperparameter Tuning Engine](http://web.eecs.umich.edu/~mosharaf/Readings/Fluid.pdf)
 |         | **Scheduling and Resource Management**
-| Mar 29  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | [Wenyuan-Ruiyang-Shuowei](Slides/032921-tiresias-hived.pdf) | Joshua-Shucheng-Han
+| Mar 29  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | [Wenyuan-Ruiyang-Shuowei](Slides/032921-tiresias-hived.pdf) | [Joshua-Shucheng-Han](Summaries/032921-tiresias-hived.pdf)
 |         | [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/HiveD.pdf)
 | Mar 31  | [AntMan: Dynamic Scaling on GPU Clusters for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/AntMan.pdf) | Wenqi-Jianbin-Shi | Muhammed
 |         | [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/PipeSwitch.pdf)
