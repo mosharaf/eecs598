@@ -89,7 +89,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Scheduling and Resource Management**
 | Mar 29  | [Tiresias: A GPU Cluster Manager for Distributed Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/Tiresias.pdf) | [Wenyuan-Ruiyang-Shuowei](Slides/032921-tiresias-hived.pdf) | [Joshua-Shucheng-Han](Summaries/032921-tiresias-hived.pdf)
 |         | [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](http://web.eecs.umich.edu/~mosharaf/Readings/HiveD.pdf)
-| Mar 31  | [AntMan: Dynamic Scaling on GPU Clusters for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/AntMan.pdf) | [Wenqi-Jianbin-Shi](Slides/033121-Antman-PipeSwitch.pdf) | Muhammed
+| Mar 31  | [AntMan: Dynamic Scaling on GPU Clusters for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/AntMan.pdf) | [Wenqi-Jianbin-Shi](Slides/033121-Antman-PipeSwitch.pdf) | [Muhammed](Summaries/033121-Antman-PipeSwitch.pdf)
 |         | [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/PipeSwitch.pdf)
 |         | **Emerging Hardware**
 | Apr  5  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) |  | Qiyue-Tianrong
