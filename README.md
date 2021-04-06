@@ -92,7 +92,7 @@ We will read recent papers from top venues to understand trends in big data syst
 | Mar 31  | [AntMan: Dynamic Scaling on GPU Clusters for Deep Learning](http://web.eecs.umich.edu/~mosharaf/Readings/AntMan.pdf) | [Wenqi-Jianbin-Shi](Slides/033121-Antman-PipeSwitch.pdf) | [Muhammed](Summaries/033121-Antman-PipeSwitch.pdf)
 |         | [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](http://web.eecs.umich.edu/~mosharaf/Readings/PipeSwitch.pdf)
 |         | **Emerging Hardware**
-| Apr  5  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | [Mosharaf](Slides/040521-TPU-Brainwave.pptx) | Qiyue-Tianrong
+| Apr  5  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | [Mosharaf](Slides/040521-TPU-Brainwave.pptx) | [Qiyue-Tianrong](Summaries/040521-TPU-Brainwave.pdf)
 |         | [Serving DNNs in Real Time at Datacenter Scale with Project Brainwave](http://web.eecs.umich.edu/~mosharaf/Readings/Brainwave.pdf)
 | Apr  7  | **Wrap Up** | 
 | Apr 19  | **Final Presentations** | 
