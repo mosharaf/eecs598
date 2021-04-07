@@ -94,7 +94,7 @@ We will read recent papers from top venues to understand trends in big data syst
 |         | **Emerging Hardware**
 | Apr  5  | [In-Datacenter Performance Analysis of a Tensor Processing Unit](http://web.eecs.umich.edu/~mosharaf/Readings/TPU.pdf) | [Mosharaf](Slides/040521-TPU-Brainwave.pptx) | [Qiyue-Tianrong](Summaries/040521-TPU-Brainwave.pdf)
 |         | [Serving DNNs in Real Time at Datacenter Scale with Project Brainwave](http://web.eecs.umich.edu/~mosharaf/Readings/Brainwave.pdf)
-| Apr  7  | **Wrap Up** | 
+| Apr  7  | **Wrap Up** | [Mosharaf](Slides/040721-FinalReview.pptx)
 | Apr 19  | **Final Presentations** | 
 | Apr 21  | **Final Presentations** | 
 
