@@ -11,6 +11,7 @@
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4820 BBB. **By appointments only.**
+| [Jiachen Liu](https://websites.umich.edu/~amberljc/) (amberljc) | GSI | TBA
 
 ### Piazza
 **ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/winter2024/eecs598004w24/).
@@ -43,27 +44,27 @@ We will read recent papers from top venues to understand trends in GenAI systems
 
 | Date    | Readings                       | Presenter | Summary
 | --------| -------------------------------| --------- | -------
-| Jan 11  | **Introduction** | Mosharaf
+| Jan 11  | **Introduction** | Mosharaf & Jiachen
 |         | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)
 |         | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2)
 |         | **GenAI Basics**
-| Jan 16  | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+| Jan 16  | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) | Jiachen
 |         | [Attention Is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)
 |         | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required)
 |         | [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
-|         | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://dl.acm.org/doi/abs/10.5555/3586589.3586709)
-|         | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg)
 | Jan 18  | [High-Resolution Image Synthesis With Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
 |         | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)
 |         | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)
 |         | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required)
 | Jan 23  | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 |         | [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention](https://arxiv.org/abs/2309.14327)
-|         | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744) 	
 |         | [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
-|         | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226)
 |         | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)
-| Jan 25  | **Project Ideas** | Mosharaf
+| Jan 25  | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://dl.acm.org/doi/abs/10.5555/3586589.3586709)
+|         | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
+|         | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226)
+|         | [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) (Required)
+| Jan 27  | **Project Ideas** | Mosharaf & Jiachen
 |         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)
 |         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required)
 | Jan 30  | **Buffer**
@@ -81,8 +82,9 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (Required)
 |         | [A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation](https://arxiv.org/abs/2310.16656)
 |         | **Inference**
-| Feb 15  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) (Required)
+| Feb 15  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu)
 |         | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required)
+|         | [Approximate Caching for Efficiently Serving Diffusion Models](https://arxiv.org/abs/2312.04429) (Required)
 | Feb 20  | [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan) (Required)
 |         | [Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/abs/2302.01318) (Required)
 | Feb 22  | **Buffer**
@@ -107,7 +109,8 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (Required)
 | Mar 28  | **Buffer**
 |         | **Special Topics**
-| Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) (Required)
+| Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) 
+|         | [Perseus: Removing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required)
 |         | [POLCA: Power Oversubscription in LLM Cloud Providers](https://arxiv.org/abs/2308.12908) (Required)
 | Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required)
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required)
@@ -130,7 +133,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 All activities of this course will be performed in **groups of 2-3 students**.
 
 ### Required Reading
-Each lecture will have **one required reading that everyone must read**.  
+Each lecture will have **two required reading that everyone must read**.  
 There will be *one or more optional related reading(s)* that only the presenter(s) should be familiar with.
 They are optional for the rest of the class.
 
@@ -193,8 +196,8 @@ You must meet the following milestones (unless otherwise specified in future ann
 ## Tentative Grading
 |                         | Weight | 
 | ------------------------| ------:| 
-| Paper Presentation      | 20%    | 
-| Paper Summary           | 20%    | 
+| Paper Presentation      | 15%    | 
+| Paper Summary           | 15%    | 
 | Participation           | 10%    | 
 | Project Report          | 40%    | 
-| Project Presentations   | 10%    | 
+| Project Presentations   | 20%    | 
