@@ -4,7 +4,7 @@
 * Catalog Number: 34478
 * Lectures/Discussion: 1012 FXB, TTh: 10:30 AM – 12:00 PM
 * Projects/Makeup: 1610 IOE, F 1:30 PM – 2:30 PM
-* Counts as: Software Breadth and Depth (PhD); Technical Elective and 500-Level (MS/E)
+* Counts as: Software Depth (PhD); Technical Elective and 500-Level (MS/E)
 
 ### Team
 
@@ -40,7 +40,6 @@ We will read recent papers from top venues to understand trends in GenAI systems
 
 ## Tentative Schedule and Reading List
 *This is an evolving list and subject to changes due to the breakneck pace of GenAI innovations.* 
-**Note:** Despite the growing reading list below, there will be *at most two required readings (marked Required) per lecture* for everyone.
 
 | Date    | Readings                       | Presenter | Summary
 | --------| -------------------------------| --------- | -------
