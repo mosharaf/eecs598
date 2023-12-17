@@ -25,7 +25,7 @@ This class will introduce you to the key concepts and the state-of-the-art in pr
 Since datacenters and cloud computing form the backbone of modern computing, we will start with an overview of the two. 
 We will then take a deep dive into systems for the Generative AI landscape, focusing on different types of problems. 
 Our topics will include: basics on generative models from a systems perspective; systems for GenAI lifecycle including pre-training, fine-tuning/alignment, grounding, and inference serving systems; etc. 
-We will cover GenAI topics from top co nferences that take a systems view to the relevant challenges.
+We will cover GenAI topics from top conferences that take a systems view to the relevant challenges.
 
 Note that this course is **NOT focused on AI methods**. 
 Instead, we will *focus on how one can build software systems* so that existing AI methods can be used in practice and new AI methods can emerge. 
@@ -224,7 +224,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Each group must turn in an 8-page final report and your code via email **on or before 6:00PM EST on May 1.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 * You can find how to access GPU resources [here](./Resources/Starting%20with%20Cloudlab).
 
-## Tentative Gradingå
+## Tentative Grading
 |                         | Weight | 
 | ------------------------| ------:| 
 | Paper Presentation      | 15%    | 
