@@ -181,27 +181,21 @@ This discussion will involve three distinct roles played by different student gr
 Roles and Responsibilities:
 
 1. The Authors:
-- Group Assignment: The group that presents the paper will play the role of the paper's authors.
+- Group Assignment: The group that presents the paper and the group that writes the summary will play the role of the paper's authors.
 - Responsibility: As authors, you are expected to defend your paper against critiques, answer questions, and discuss how you might improve or extend your research in the future, akin to writing a rebuttal during the peer-review process.
 
 
 2. The Reviewers:
-- Group Assignment: Each group will **sign up for one slot to play the role of reviewers**.
+- Group Assignment: Each group will be assigned to one slot to play the role of reviewers.
 - Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
 Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
 
-
-3. The Industry Sponsors:
-- Group Assignment: Another group assigned to write the summary and discussion of the paper will play on the role of the industry sponsors.
-- Responsibility: Be ready to answer question about the commercial viability and practical application of the research presented, offering a real-world perspective on how academic work can be translated into industry solutions. 
-Additionally, you will guide discussions on potential industry-academia collaborations, highlighting current industry trends and requirements that can shape the direction of the research.
-
-
-4. Rest of the classes:
+ 
+3. Rest of the classes:
 - Responsibility: 
-  - You are required to [submit](https://forms.gle/Us8pr5o4R4TtzMzU7) **two insightful questions** about the presented papers 24h before each class. 
+  - You are required to [submit](https://forms.gle/Us8pr5o4R4TtzMzU7) **one insightful question** for each presented papers before each class. 
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
-  - After each session, you'll have the opportunity to **[vote](https://forms.gle/7wmVdYmhXR63kFHB9) for your favorite group** among the authors, reviewers, or industry sponsors, based on their performance and contribution to the discussion.
+  - After each session, you'll have the opportunity to **[vote](https://forms.gle/7wmVdYmhXR63kFHB9) for your favorite group** based on their performance and contribution to the discussion.
   The group with the most votes will receive a _bonus_ point.
 
 ### Participation
