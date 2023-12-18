@@ -11,7 +11,7 @@
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Mosharaf Chowdhury](http://www.mosharaf.com/) (mosharaf) | Faculty | 4820 BBB. **By appointments only.**
-| [Jiachen Liu](https://websites.umich.edu/~amberljc/) (amberljc) | GSI | TBA
+| [Jiachen Liu](https://websites.umich.edu/~amberljc/) (amberljc) | GSI | 4828 BBB. F 12:30 - 1:30 PM
 
 ### Piazza
 **ALL** communication regarding this course must be via [Piazza](https://piazza.com/umich/winter2024/eecs598004w24/).
@@ -77,6 +77,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | **Fine Tuning / Alignment**
 | Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required)
 |         | [Training Language Models to Follow Instructions with Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (Required)
+|         | [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
 | Feb 13  | [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) (Required)
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (Required)
 |         | [A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation](https://arxiv.org/abs/2310.16656)
@@ -86,6 +87,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Approximate Caching for Efficiently Serving Diffusion Models](https://arxiv.org/abs/2312.04429) (Required)
 | Feb 20  | [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan) (Required)
 |         | [Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/abs/2302.01318) (Required)
+|         | [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/abs/2308.16369)
 | Feb 22  | **Buffer**
 |         | **Grounding**
 | Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required)
@@ -173,6 +175,29 @@ Use Google doc to enable in-line comments and suggestions.
 
 *Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
 
+### Post-Presentation Panel Discussion 
+To foster a deeper understanding of the papers and encourage critical thinking, each lecture will be followed by a panel discussion. 
+This discussion will involve three distinct roles played by different student groups, simulating an interactive and dynamic scholarly exchange.
+Roles and Responsibilities:
+
+1. The Authors:
+- Group Assignment: The group that presents the paper and the group that writes the summary will play the role of the paper's authors.
+- Responsibility: As authors, you are expected to defend your paper against critiques, answer questions, and discuss how you might improve or extend your research in the future, akin to writing a rebuttal during the peer-review process.
+
+
+2. The Reviewers:
+- Group Assignment: Each group will be assigned to one slot to play the role of reviewers.
+- Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
+Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
+
+ 
+3. Rest of the classes:
+- Responsibility: 
+  - You are required to [submit](https://forms.gle/Us8pr5o4R4TtzMzU7) **one insightful question** for each presented papers before each class. 
+  - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
+  - After each session, you'll have the opportunity to **[vote](https://forms.gle/7wmVdYmhXR63kFHB9) for your favorite group** based on their performance and contribution to the discussion.
+  The group with the most votes will receive a _bonus_ point.
+
 ### Participation
 Given the discussion-based nature of this course, participation is required both for your own understanding and to improve the overall quality of the course.
 You are expected to attend **all** lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
@@ -187,10 +212,11 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Form a group of 2-3 members and [declare your group's membership and paper preferences]() by **January 23**. After this date, we will form groups from the remaining students.
+* Form a group of 2-3 members and [declare your group's membership and paper preferences](https://forms.gle/t8n6V9ewJoDWTaSL9) by **January 23**. After this date, we will form groups from the remaining students.
 * Turn in a 2-page draft proposal (including references) by **February 9**. Remember to include the names and Michigan email addresses of the group members. 
 * Each group must present mid-semester progress during class hours on **March 12 and March 14**.
 * Each group must turn in an 8-page final report and your code via email **on or before 6:00PM EST on May 1.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
+* You can find how to access GPU resources [here](./Resources/Starting%20with%20Cloudlab).
 
 ## Tentative Grading
 |                         | Weight | 
