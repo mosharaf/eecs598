@@ -2,7 +2,7 @@
 
 ## Administrivia
 * Catalog Number: 34478
-* Lectures/Discussion: 1012 FXB, TTh: 10:30 AM – 12:00 PM
+* Lectures/Discussion: 133 CHRYS, TTh: 10:30 AM – 12:00 PM
 * Projects/Makeup: 1610 IOE, F 1:30 PM – 2:30 PM
 * Counts as: Software Depth (PhD); Technical Elective and 500-Level (MS/E)
 
@@ -43,8 +43,10 @@ We will read recent papers from top venues to understand trends in GenAI systems
 
 | Date    | Readings                       | Presenter | Summary
 | --------| -------------------------------| --------- | -------
-| Jan 11  | **Introduction** | Mosharaf & Jiachen
+| Jan 11  | **Introduction** | Mosharaf
 |         | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)
+|         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)
+|         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 |         | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2)
 |         | **GenAI Basics**
 | Jan 16  | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) | Jiachen
@@ -63,10 +65,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
 |         | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226)
 |         | [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) (Required)
-| Jan 27  | **Project Ideas** | Mosharaf & Jiachen
-|         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)
-|         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required)
-| Jan 30  | **Buffer**
+| Jan 30  | **Project Ideas** | Mosharaf & Jiachen
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         | **Pre-Training**
@@ -178,20 +177,21 @@ Use Google doc to enable in-line comments and suggestions.
 ### Post-Presentation Panel Discussion 
 To foster a deeper understanding of the papers and encourage critical thinking, each lecture will be followed by a panel discussion. 
 This discussion will involve three distinct roles played by different student groups, simulating an interactive and dynamic scholarly exchange.
-Roles and Responsibilities:
 
-1. The Authors:
+####Roles and Responsibilities
+
+1. **The Authors**
 - Group Assignment: The group that presents the paper and the group that writes the summary will play the role of the paper's authors.
 - Responsibility: As authors, you are expected to defend your paper against critiques, answer questions, and discuss how you might improve or extend your research in the future, akin to writing a rebuttal during the peer-review process.
 
 
-2. The Reviewers:
+2. **The Reviewers**
 - Group Assignment: Each group will be assigned to one slot to play the role of reviewers.
 - Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
 Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
 
  
-3. Rest of the classes:
+3. **Rest of the Class**
 - Responsibility: 
   - You are required to [submit](https://forms.gle/Us8pr5o4R4TtzMzU7) **one insightful question** for each presented papers before each class. 
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
