@@ -56,6 +56,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Jan 18  | [High-Resolution Image Synthesis With Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
 |         | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)
 |         | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)
+|         | [CLIP: Connecting Text and Images](https://openai.com/research/clip) (Required)
 |         | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required)
 | Jan 23  | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 |         | [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention](https://arxiv.org/abs/2309.14327)
@@ -65,7 +66,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
 |         | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226)
 |         | [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) (Required)
-| Jan 30  | **Project Ideas** | Mosharaf & Jiachen
+| Jan 30  | **Buffer**
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         | **Pre-Training**
@@ -102,6 +103,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Mar 19  | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required)
 |         | [Efficiently Scaling Transformer Inference](https://proceedings.mlsys.org/paper_files/paper/2023/hash/523f87e9d08e6071a3bbd150e6da40fb-Abstract-mlsys2023.html) (Required)
 |         | [Full Stack Optimization of Transformer Inference: a Survey](https://arxiv.org/abs/2302.14017)
+|         | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
 | Mar 21  | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html) (Required)
 |         | [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://dl.acm.org/doi/10.1145/3458817.3476205) (Required)
 | Mar 26  | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://openreview.net/forum?id=tcbBPnfwxS) (Required)
