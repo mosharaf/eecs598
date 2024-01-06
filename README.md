@@ -180,7 +180,7 @@ Use Google doc to enable in-line comments and suggestions.
 To foster a deeper understanding of the papers and encourage critical thinking, each lecture will be followed by a panel discussion. 
 This discussion will involve three distinct roles played by different student groups, simulating an interactive and dynamic scholarly exchange.
 
-####Roles and Responsibilities
+#### Roles and Responsibilities
 
 1. **The Authors**
 - Group Assignment: The group that presents the paper and the group that writes the summary will play the role of the paper's authors.
