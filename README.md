@@ -43,7 +43,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 
 | Date    | Readings                       | Presenter | Summary
 | --------| -------------------------------| --------- | -------
-| Jan 11  | **Introduction** | Mosharaf
+| Jan 11  | **Introduction** | [Mosharaf](Slides/011124-MChowdhury.pdf)
 |         | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)
 |         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)
 |         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
