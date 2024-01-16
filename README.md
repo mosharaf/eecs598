@@ -49,16 +49,16 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 |         | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2)
 |         | **GenAI Basics**
-| Jan 16  | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) | Jiachen
+| Jan 16  | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) | [Jiachen](Slides/011624-LLMSys-JLiu.pdf) | - 
 |         | [Attention Is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)
 |         | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required)
 |         | [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
-| Jan 18  | [High-Resolution Image Synthesis With Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
+| Jan 18  | [High-Resolution Image Synthesis With Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html) | Jiachen, Yuxuan | -
 |         | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)
 |         | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)
 |         | [CLIP: Connecting Text and Images](https://openai.com/research/clip) (Required)
 |         | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required)
-| Jan 23  | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
+| Jan 23  | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)  
 |         | [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention](https://arxiv.org/abs/2309.14327)
 |         | [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
 |         | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)
