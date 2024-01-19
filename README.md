@@ -53,7 +53,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Attention Is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)
 |         | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required)
 |         | [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
-| Jan 18  | [High-Resolution Image Synthesis With Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html) | [Jiachen](/Slides/011824-CLIP-Jiachen.pptx), [Yuxuan](/Slides/011824-Diffusion-Yuxuan.pptx) | Ari, Jack, Vishwa
+| Jan 18  | [High-Resolution Image Synthesis With Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html) | [Jiachen](/Slides/011824-CLIP-Jiachen.pptx), [Yuxuan](/Slides/011824-Diffusion-Yuxuan.pptx) | [Ari, Jack, Vishwa](/Summaries/011824-Diffusion-CLIP.pdf)
 |         | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)
 |         | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)
 |         | [CLIP: Connecting Text and Images](https://openai.com/research/clip) (Required)
@@ -62,7 +62,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention](https://arxiv.org/abs/2309.14327)
 |         | [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
 |         | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)
-| Jan 25  | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://dl.acm.org/doi/abs/10.5555/3586589.3586709)
+| Jan 25  | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://dl.acm.org/doi/abs/10.5555/3586589.3586709) | Ari, Jack, Vishwa | Maya, Aidan, Christopher 
 |         | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
 |         | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226)
 |         | [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) (Required)
