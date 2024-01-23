@@ -58,7 +58,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)
 |         | [CLIP: Connecting Text and Images](https://openai.com/research/clip) (Required)
 |         | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required)
-| Jan 23  | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)  | Shiqi, Aakash, Yong
+| Jan 23  | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)  | [Shiqi, Aakash, Yong](/Slides/012324-LVLM.pptx) | Yuxuan, Daniel, Oh Jun
 |         | [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention](https://arxiv.org/abs/2309.14327)
 |         | [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
 |         | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)
