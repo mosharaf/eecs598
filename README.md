@@ -70,12 +70,12 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         | **Pre-Training**
-| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://mlsys.org/virtual/2022/oral/2146) (Required)
+| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://mlsys.org/virtual/2022/oral/2146) (Required) | Yuxuan, Finn, Marwa	| Daniel, Norman, Zhixiang
 |         | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)
-| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) 
+| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Yash, Zin 	|Meredith, Calvin , Xuweiyi
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required)
 |         | **Fine Tuning / Alignment**
-| Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required)
+| Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | Mehar, Parth, Zachary | Lingxiao, Shoma, Christopher
 |         | [Training Language Models to Follow Instructions with Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (Required)
 |         | [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
 | Feb 13  | [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) (Required)
