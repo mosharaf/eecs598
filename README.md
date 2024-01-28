@@ -72,7 +72,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | **Pre-Training**
 | Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://mlsys.org/virtual/2022/oral/2146) (Required) | Yuxuan, Finn, Marwa | Daniel, Norman, Zhixiang
 |         | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)
-| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | | Chun Wai, Xuweiyi
+| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Insu Jang | Chun Wai, Xuweiyi
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |
 |         | **Fine Tuning / Alignment**
 | Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | Mehar, Parth, Zachary | Lingxiao, Shoma, Christopher
