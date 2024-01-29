@@ -66,13 +66,13 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
 |         | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226)
 |         | [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) (Required)
-| Jan 30  | **Buffer**
+| Jan 30  | **No Lecture / Work on Project Proposal**
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         | **Pre-Training**
 | Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://mlsys.org/virtual/2022/oral/2146) (Required) | Yuxuan, Finn, Marwa | Daniel, Norman, Zhixiang
 |         | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)
-| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Insu Jang | Chun Wai, Xuweiyi
+| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Insu Jang | 
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |
 |         | **Fine Tuning / Alignment**
 | Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | Mehar, Parth, Zachary | Lingxiao, Shoma, Christopher
@@ -114,7 +114,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | Jae-Won Chung	 | 
 |         | [Perseus: Removing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required)
 |         | [POLCA: Power Oversubscription in LLM Cloud Providers](https://arxiv.org/abs/2308.12908) (Required)
-| Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) | Chun Wai, Xuweiyi | Filippos, Yayuan 
+| Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) |  | Filippos, Yayuan 
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required)
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Apr  9  | **Buffer**
