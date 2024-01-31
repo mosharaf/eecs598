@@ -41,8 +41,8 @@ We will read recent papers from top venues to understand trends in GenAI systems
 ## Tentative Schedule and Reading List
 *This is an evolving list and subject to changes due to the breakneck pace of GenAI innovations.* 
 
-| Date    | Readings                       | Presenter | Summary
-| --------| -------------------------------| --------- | -------
+| Date    | Readings                       | Presenter | Summary | Reviewer
+| --------| -------------------------------| --------- | ------- | -------
 | Jan 11  | **Introduction** | [Mosharaf](Slides/011124-MChowdhury.pdf)
 |         | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)
 |         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)
@@ -70,27 +70,27 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         | **Pre-Training**
-| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://proceedings.mlsys.org/paper_files/paper/2022/hash/37385144cac01dff38247ab11c119e3c-Abstract.html) (Required) | Yuxuan, Finn, Marwa | Daniel, Norman, Zhixiang
+| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://proceedings.mlsys.org/paper_files/paper/2022/hash/37385144cac01dff38247ab11c119e3c-Abstract.html) (Required) | Yuxuan, Finn, Marwa | Daniel, Norman, Zhixiang | Maya, Aidan, Christopher
 |         | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)
-| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Insu Jang | 
+| Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Insu Jang | - | Jiaheng, Jeremy, Zhenning 
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |
 |         | **Fine Tuning / Alignment**
-| Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | Mehar, Parth, Zachary | Lingxiao, Shoma, Christopher
+| Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | Mehar, Parth, Zachary | Lingxiao, Shoma, Christopher | Leah, Zin, Rabia
 |         | [Training Language Models to Follow Instructions with Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (Required)
 |         | [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
-| Feb 13  | [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) (Required) | Yash, Aniket	| 
+| Feb 13  | [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) (Required) | Yash, Aniket	| - | Filippos Bellos, Yayuan Li
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (Required)
 |         | [A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation](https://arxiv.org/abs/2310.16656)
 |         | **Inference**
-| Feb 15  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) | Daniel, Norman, Zhixiang	| Xueshen, Juechu
+| Feb 15  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) | Daniel, Norman, Zhixiang	| Xueshen, Juechu | Yuxuan, Finn, Marwa
 |         | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required)
 |         | [Approximate Caching for Efficiently Serving Diffusion Models](https://arxiv.org/abs/2312.04429) (Required)
-| Feb 20  | [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan) (Required) | Luke, Daniel, Oh Jun |	Jiaheng, Jeremy, Zhenning
+| Feb 20  | [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan) (Required) | Luke, Daniel, Oh Jun |	Jiaheng, Jeremy, Zhenning | Shiqi, Aakash, Yong
 |         | [Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/abs/2302.01318) (Required)
 |         | [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/abs/2308.16369)
 | Feb 22  | **Buffer**
 |         | **Grounding**
-| Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required) | Maya, Aidan, Christopher	| Mehar, Parth, Zachary
+| Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required) | Maya, Aidan, Christopher	| Mehar, Parth, Zachary | Vishwa Ramanakumar, Jack Holland 
 |         | [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://aclanthology.org/2022.naacl-main.272/)
 |         | [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html) (Required)
 | Mar  7  | [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://ieeexplore.ieee.org/abstract/document/8594636) (Required) | Filippos, Yayuan | Yash, Aniket 
@@ -100,18 +100,18 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Mar 12  | **Mid-Semester Presentations**
 | Mar 14  | **Mid-Semester Presentations**
 |         | **Systems Optimizations**
-| Mar 19  | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required) | Jiaheng, Jeremy, Zhenning | Leah, Zin, Rabia 
+| Mar 19  | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required) | Jiaheng, Jeremy, Zhenning | Leah, Zin, Rabia | Mehar, Parth, Zachary
 |         | [Efficiently Scaling Transformer Inference](https://proceedings.mlsys.org/paper_files/paper/2023/hash/523f87e9d08e6071a3bbd150e6da40fb-Abstract-mlsys2023.html) (Required)
 |         | [Full Stack Optimization of Transformer Inference: a Survey](https://arxiv.org/abs/2302.14017)
 |         | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
-| Mar 21  | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html) (Required) | Xueshen, Juechu | Shiqi, Aakash, Yong
+| Mar 21  | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html) (Required) | Xueshen, Juechu | Shiqi, Aakash, Yong | Yash, Aniket
 |         | [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://dl.acm.org/doi/10.1145/3458817.3476205) (Required)
-| Mar 26  | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://openreview.net/forum?id=tcbBPnfwxS) (Required) | Lingxiao, Shoma, Christopher | Yuxuan, Finn, Marwa
+| Mar 26  | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://openreview.net/forum?id=tcbBPnfwxS) (Required) | Lingxiao, Shoma, Christopher | Yuxuan, Finn, Marwa | Daniel, Norman, Zhixiang
 |         | [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://papers.nips.cc/paper_files/paper/2022/hash/c3ba4962c05c49636d4c6206a97e9c8a-Abstract-Conference.html)
 |         | [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (Required)
 | Mar 28  | **Buffer**
 |         | **Special Topics**
-| Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | Jae-Won Chung	 | 
+| Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | Jae-Won Chung | - | Yuxuan, Daniel, Oh 
 |         | [Perseus: Removing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required)
 |         | [POLCA: Power Oversubscription in LLM Cloud Providers](https://arxiv.org/abs/2308.12908) (Required)
 | Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) |  | Filippos, Yayuan 
