@@ -70,7 +70,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         | **Pre-Training**
-| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://proceedings.mlsys.org/paper_files/paper/2022/hash/37385144cac01dff38247ab11c119e3c-Abstract.html) (Required) | [Yuxuan, Finn, Marwa](/Slides/010224-Pathways%20&%20Megatron.pdf) | Daniel, Norman, Zhixiang | Maya, Aidan, Christopher
+| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://proceedings.mlsys.org/paper_files/paper/2022/hash/37385144cac01dff38247ab11c119e3c-Abstract.html) (Required) | [Yuxuan, Finn, Marwa](/Slides/010224-Pathways%20&%20Megatron.pptx) | Daniel, Norman, Zhixiang | Maya, Aidan, Christopher
 |         | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)
 | Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Insu Jang | - | Jiaheng, Jeremy, Zhenning 
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |
