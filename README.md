@@ -62,7 +62,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention](https://arxiv.org/abs/2309.14327)
 |         | [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
 |         | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)
-| Jan 25  | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://dl.acm.org/doi/abs/10.5555/3586589.3586709) | [Ari, Jack, Vishwa](/Slides/012325-MoE.pptx) | [Maya, Aidan, Christopher](/Summaries/012325-MoE.pdf)
+| Jan 25  | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://dl.acm.org/doi/abs/10.5555/3586589.3586709) | [Ari, Jack, Vishwa](/Slides/012324-MoE.pptx) | [Maya, Aidan, Christopher](/Summaries/012325-MoE.pdf)
 |         | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)
 |         | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226)
 |         | [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) (Required)
@@ -70,7 +70,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)
 |         | [Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         | **Pre-Training**
-| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://proceedings.mlsys.org/paper_files/paper/2022/hash/37385144cac01dff38247ab11c119e3c-Abstract.html) (Required) | Yuxuan, Finn, Marwa | Daniel, Norman, Zhixiang | Maya, Aidan, Christopher
+| Feb  1  | [Pathways: Asynchronous Distributed Dataflow for ML](https://proceedings.mlsys.org/paper_files/paper/2022/hash/37385144cac01dff38247ab11c119e3c-Abstract.html) (Required) | [Yuxuan, Finn, Marwa](/Slides/010224-Pathways%20&%20Megatron.pdf) | Daniel, Norman, Zhixiang | Maya, Aidan, Christopher
 |         | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required)
 | Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Insu Jang | - | Jiaheng, Jeremy, Zhenning 
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |
@@ -90,10 +90,10 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/abs/2308.16369)
 | Feb 22  | **Buffer**
 |         | **Grounding**
-| Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required) | Maya, Aidan, Christopher	| Mehar, Parth, Zachary | Vishwa Ramanakumar, Jack Holland 
+| Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required) | Maya, Aidan, Christopher	| Mehar, Parth, Zachary | Ari, Jack, Vishwa
 |         | [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://aclanthology.org/2022.naacl-main.272/)
 |         | [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html) (Required)
-| Mar  7  | [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://ieeexplore.ieee.org/abstract/document/8594636) (Required) | Filippos, Yayuan | Yash, Aniket 
+| Mar  7  | [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://ieeexplore.ieee.org/abstract/document/8594636) (Required) | Filippos, Yayuan | Yash, Aniket | 
 |         | [Billion-Scale Similarity Search with GPUs](https://ieeexplore.ieee.org/document/8733051)
 |         | [LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/abs/2310.03294)
 |         | [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) (Required)
@@ -114,11 +114,11 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | Jae-Won Chung | - | Yuxuan, Daniel, Oh 
 |         | [Perseus: Removing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required)
 |         | [POLCA: Power Oversubscription in LLM Cloud Providers](https://arxiv.org/abs/2308.12908) (Required)
-| Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) |  | Filippos, Yayuan 
+| Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) |  | Filippos, Yayuan | Lingxiao, Shoma, Christopher
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required)
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Apr  9  | **Buffer**
-| Apr 11  | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) (Required) | Leah, Zin, Rabia | Luke
+| Apr 11  | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) (Required) | Leah, Zin, Rabia | Luke | Xueshen, Juechu
 |         | [Extracting Training Data from Diffusion Models](https://www.usenix.org/conference/usenixsecurity23/presentation/carlini) (Required)
 |         | [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/abs/2308.14840)
 | Apr 16  | **Wrap Up** | Mosharaf
