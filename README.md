@@ -75,7 +75,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Feb  6  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | [Insu Jang](/Slides/020624-alpa-oobleck-Insu.pptx) | - | Jiaheng, Jeremy, Zhenning 
 |         | [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/10.1145/3600006.3613152) (Required) |
 |         | **Fine Tuning / Alignment**
-| Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | [Mehar, Parth, Zachary](/Slides/020824-Lora-RLHF.pdf) | Lingxiao, Shoma, Christopher | Leah, Zin, Rabia
+| Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | [Mehar, Parth, Zachary](/Slides/020824-Lora-RLHF.pdf) | [Lingxiao, Shoma, Christopher](/Summaries/020824-LoRA-InstructGPT-SLoRA.pdf) | Leah, Zin, Rabia
 |         | [Training Language Models to Follow Instructions with Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (Required)
 |         | [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
 | Feb 13  | [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) (Required) | Yash, Aniket	| - | Filippos Bellos, Yayuan Li
