@@ -78,7 +78,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Feb  8  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required) | [Mehar, Parth, Zachary](/Slides/020824-Lora-RLHF.pdf) | [Lingxiao, Shoma, Christopher](/Summaries/020824-LoRA-InstructGPT-SLoRA.pdf) | Leah, Zin, Rabia
 |         | [Training Language Models to Follow Instructions with Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (Required)
 |         | [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
-| Feb 13  | [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) (Required) | Yash, Aniket	| - | Filippos Bellos, Yayuan Li
+| Feb 13  | [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) (Required) | [Yash, Aniket](/Slides/021324-instruction-tuning-LIMA.pdf)	| - | Filippos Bellos, Yayuan Li
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (Required)
 |         | [A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation](https://arxiv.org/abs/2310.16656)
 |         | **Inference**
@@ -197,8 +197,6 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
 - Responsibility: 
   - You are required to [submit](https://forms.gle/Us8pr5o4R4TtzMzU7) **one insightful question** for each presented papers before each class. 
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
-  - After each session, you'll have the opportunity to **[vote](https://forms.gle/7wmVdYmhXR63kFHB9) for your favorite group** based on their performance and contribution to the discussion.
-  The group with the most votes will receive a _bonus_ point.
 
 ### Participation
 Given the discussion-based nature of this course, participation is required both for your own understanding and to improve the overall quality of the course.
