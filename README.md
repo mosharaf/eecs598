@@ -82,7 +82,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (Required)
 |         | [A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation](https://arxiv.org/abs/2310.16656)
 |         | **Inference**
-| Feb 15  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) | Daniel, Norman, Zhixiang	| Xueshen, Juechu | Yuxuan, Finn, Marwa
+| Feb 15  | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) | [Daniel, Norman, Zhixiang](/Slides/021524-Orca-%20PagedAttention-Approx%20Caching.pptx)	| Xueshen, Juechu | Yuxuan, Finn, Marwa
 |         | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required)
 |         | [Approximate Caching for Efficiently Serving Diffusion Models](https://arxiv.org/abs/2312.04429) (Required)
 | Feb 20  | [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan) (Required) | Luke, Daniel, Oh Jun |	Jiaheng, Jeremy, Zhenning | Shiqi, Aakash, Yong
