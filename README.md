@@ -90,7 +90,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/abs/2308.16369)
 | Feb 22  | **Buffer**
 |         | **Grounding**
-| Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required) | Maya, Aidan, Christopher	| Mehar, Parth, Zachary | Ari, Jack, Vishwa
+| Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required) |[ Maya, Aidan, Christopher](/Slides/03052024-Retrieval-based%20Grounding%20for%20LLMs.pptx)	| [Mehar, Parth, Zachary](/Summaries/03052024-REALM%20&%20RETRO.pdf) | Ari, Jack, Vishwa
 |         | [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://aclanthology.org/2022.naacl-main.272/)
 |         | [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html) (Required)
 | Mar  7  | [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://ieeexplore.ieee.org/abstract/document/8594636) (Required) | Filippos, Yayuan | Yash, Aniket | 
