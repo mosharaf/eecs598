@@ -93,7 +93,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Mar  5  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a.html) (Required) |[ Maya, Aidan, Christopher](/Slides/03052024-Retrieval-based%20Grounding%20for%20LLMs.pptx)	| [Mehar, Parth, Zachary](/Summaries/03052024-REALM%20&%20RETRO.pdf) | Ari, Jack, Vishwa
 |         | [ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://aclanthology.org/2022.naacl-main.272/)
 |         | [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html) (Required)
-| Mar  7  | [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://ieeexplore.ieee.org/abstract/document/8594636) (Required) | Filippos, Yayuan | Yash, Aniket | 
+| Mar  7  | [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://ieeexplore.ieee.org/abstract/document/8594636) (Required) | [Filippos, Yayuan](/Slides/030724-HNSW-memgpt.pptx) | Yash, Aniket | 
 |         | [Billion-Scale Similarity Search with GPUs](https://ieeexplore.ieee.org/document/8733051)
 |         | [LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/abs/2310.03294)
 |         | [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) (Required)
