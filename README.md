@@ -100,7 +100,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 | Mar 12  | **Mid-Semester Presentations**
 | Mar 14  | **Mid-Semester Presentations**
 |         | **Systems Optimizations**
-| Mar 19  | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required) | Jiaheng, Jeremy, Zhenning | Leah, Zin, Rabia | Mehar, Parth, Zachary
+| Mar 19  | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required) | [Jiaheng, Jeremy, Zhenning](/Slides/032024-FlashAttention-Palm.pptx) | Leah, Zin, Rabia | Mehar, Parth, Zachary
 |         | [Efficiently Scaling Transformer Inference](https://proceedings.mlsys.org/paper_files/paper/2023/hash/523f87e9d08e6071a3bbd150e6da40fb-Abstract-mlsys2023.html) (Required)
 |         | [Full Stack Optimization of Transformer Inference: a Survey](https://arxiv.org/abs/2302.14017)
 |         | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
