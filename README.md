@@ -123,7 +123,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/abs/2308.14840)
 | Apr 16  | **Wrap Up** | Mosharaf
 |         | [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required)
-| Apr 18  | **Final Poster Presentations**<br>Tishman Hall @Beyster<br>(10:30AM - 12PM) | 
+| Apr 18  | **Final Poster Presentations**<br>Tishman Hall @Beyster<br>(10:30AM - 12PM) | [Template](/Resources/poster.pptx) |
 
 
 ## Policies
