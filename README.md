@@ -106,7 +106,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
 | Mar 21  | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html) (Required) | [Xueshen, Juechu](/Slides/032124-FlexGen-ZeRO-Infinity.pptx) | [Shiqi, Aakash, Yong](/Summaries/032124-FlexGen-ZeRO-Infinity.pdf) | Yash, Aniket
 |         | [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://dl.acm.org/doi/10.1145/3458817.3476205) (Required)
-| Mar 26  | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://openreview.net/forum?id=tcbBPnfwxS) (Required) | Lingxiao, Shoma, Christopher | Yuxuan, Finn, Marwa | Daniel, Norman, Zhixiang
+| Mar 26  | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://openreview.net/forum?id=tcbBPnfwxS) (Required) | [Lingxiao, Shoma, Christopher](/Slides/032624-GPTQ-LargeInference.pptx) | [Yuxuan, Finn, Marwa](/Summaries/032624-quantize.pdf) | Daniel, Norman, Zhixiang
 |         | [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://papers.nips.cc/paper_files/paper/2022/hash/c3ba4962c05c49636d4c6206a97e9c8a-Abstract-Conference.html)
 |         | [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (Required)
 | Mar 28  | **Buffer**
