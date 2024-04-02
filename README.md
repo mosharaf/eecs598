@@ -111,11 +111,11 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (Required)
 | Mar 28  | **Buffer**
 |         | **Special Topics**
-| Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | Jae-Won Chung | - | Yuxuan, Daniel, Oh 
+| Apr  2  | [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you) | [Jae-Won Chung](/Slides/040224-energy.pdf) | - | Yuxuan, Daniel, Oh 
 |         | [Perseus: Removing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required)
 |         | [POLCA: Power Oversubscription in LLM Cloud Providers](https://arxiv.org/abs/2308.12908) (Required)
-| Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) |  | Filippos, Yayuan | Lingxiao, Shoma, Christopher
-|         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required)
+| Apr  4  | [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986) (Required) |  Jiachen  | Filippos, Yayuan | Lingxiao, Shoma, Christopher
+|         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) 
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Apr  9  | **Buffer**
 | Apr 11  | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) (Required) | Leah, Zin, Rabia | Luke | Xueshen, Juechu
