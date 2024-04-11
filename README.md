@@ -118,7 +118,7 @@ We will read recent papers from top venues to understand trends in GenAI systems
 |         | [On the Dangers of Stochastic Parrots: Can Language Models be too Big?🦜](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Required) 
 |         | [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715)
 | Apr  9  | **Buffer**
-| Apr 11  | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) (Required) | Leah, Zin, Rabia | Luke | Xueshen, Juechu
+| Apr 11  | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) (Required) | [Leah, Zin, Rabia](/Slides/041124-Security%20Risks%20of%20GenAI.pdf) | Luke | Xueshen, Juechu
 |         | [Extracting Training Data from Diffusion Models](https://www.usenix.org/conference/usenixsecurity23/presentation/carlini) (Required)
 |         | [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/abs/2308.14840)
 | Apr 16  | **No Class: Prep for Poster Presentation** |
